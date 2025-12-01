@@ -1,0 +1,4 @@
+1. Clement spots her again; this time she doesn’t avoid him. She asks, indecipherable gesture, whether his friends believed him or not. <!-- She's both hoping and dreading he had exposed her --> 
+2. He says no; her expression changes, like she had been expecting something, she's either disappointed or reliefed, impossible to know. He introduces himself as Clement; she says “Victoria.” The swap contact info <!-- Revealed to the reader. She's both reliefed and disappointed actually, in her novelty seeking behaviour she was sort of wanting to be exposed -->
+3. He has to leave; over the next days he messages, asking if she’ll come by his place. He mentions his friends will be there, hoping they’ll see she’s real.
+4. She agrees and shows up. Instead of just hanging out, she ends up sleeping with Clement and his friends. Nimrod and (TBD)

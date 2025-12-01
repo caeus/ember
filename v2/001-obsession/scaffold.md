@@ -1,3 +1,4 @@
+## POV: Hugo
 - Hugo hauls four small PHCUs home, wires them to a power strip to run a vanity crypto hash experiment, tiny status LEDs winking to show they’re on, then forgets them under the desk.
 - Victoria arrives for a hookup; they joke about her boyfriend (Hugo knows who he is, reader doesn’t).
 - During sex everything is intense—Victoria leaves him (and her) tired, satisfied, and already wanting more; in the afterglow a new hum/pressure blooms in Hugo’s head—he blames perfume/beer.

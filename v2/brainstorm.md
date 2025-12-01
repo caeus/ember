@@ -1,5 +1,5 @@
 - obsessions: Hugo using PHCUs as an on/off switch for hyper-focus; relief + abandonment when off.
-- overlooked: Clement misreading a risky hookup as validation; nascent bond, resentment at forums.
+- overlooked: Clement misreading a risky hookup as validation; nascent bond, resentment at his online circles.
 - drift: Imogen already bonded; creative daydreams turning intrusive; suicide daydream mirrored by real jump.
 - Victoria spiral: offscreen craving drives risky public hookups, evolving MOs; intersects with multiple POVs.
 - Imogen pivot: turns investigative/journalistic after the jump, researching the suicide victim; discovers he was younger and male, but shared triggers with her imagined character (cheating partner, academic expulsion, dead father).
