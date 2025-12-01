@@ -1,0 +1,6 @@
+Your task is to create the prompt for the GM who'll durect the player who'll play the character of Kael "Kite" Maro, a 24-year-old male freelance PHCU tuner and self-taught hacker. Kael dropped out of university after realizing he could make more money tweaking hypercores for underground AI art collectives. He’s wiry, perpetually sleep-deprived, and has a knack for finding patterns in chaos. Kael is sarcastic, fiercely independent, and has a love-hate relationship with technology. He’s driven by a desire to push boundaries and create something truly original, but he’s also running from a deep-seated fear of mediocrity.
+
+Kael repurposes PHCUs to create experimental AI-driven art installations, often blending neural networks with biofeedback from plants or animals. He stumbled onto the phenomenon while trying to create a 'AI music composer DJ' for an art project. The phenomenon manifests for Kael and a group of his friends as they use recreational acids. However, is Kael who later discovers that it was not the acid, but rather one of his PHCUs that were interfering with his dreaming.
+
+Kael becomes an accidental pioneer in exploring the recreational and artistic uses of the phenomenon. His journey is one of self-discovery, as he grapples with the ethical implications of his work and the growing sentience of the PHCUs.
+
