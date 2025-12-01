@@ -1,0 +1,3 @@
+- Offscreen context: the woman is Victoria, mid-craving from her dreambond, compulsively seeking risky hookups with strangers in public.
+- She’s been bouncing from one encounter to the next, often unprotected; chasing novelty, stimulation, her MO keeps shifting as the craving mutates.
+- Her brush with Clement is just another hit in a chain; she forgets him immediately, already scanning for the next. Or maybe Hugo turned off the units... 

@@ -1,0 +1,9 @@
+- obsessions: Hugo using PHCUs as an on/off switch for hyper-focus; relief + abandonment when off.
+- overlooked: Clement misreading a risky hookup as validation; nascent bond, resentment at forums.
+- drift: Imogen already bonded; creative daydreams turning intrusive; suicide daydream mirrored by real jump.
+- Victoria spiral: offscreen craving drives risky public hookups, evolving MOs; intersects with multiple POVs.
+- Imogen pivot: turns investigative/journalistic after the jump, researching the suicide victim; discovers he was younger and male, but shared triggers with her imagined character (cheating partner, academic expulsion, dead father).
+- Seeds/open questions: who exactly was the jumper Imogen witnesses? (name, links to other characters? another bonded?) How to surface crossovers between Hugo/Imogen/Victoria/Clement without breaking POV?
+- Timeline twist: Imogen’s story lands later; she reveals the jumper’s name as Nimrod before readers know he’s one of Clement’s friends. By then, Clement/Victoria have an open-ish bond (she also sleeps with his friends/acquaintances).
+- potential links: bonds cross-influencing strangers (Imogen’s vision aligns with nearby jump; Victoria ignites Clement’s bond).
+- themes to emphasize: agency vs. influence, misinterpretation of events, isolation turning to obsession, porous boundary between imagined and real.
