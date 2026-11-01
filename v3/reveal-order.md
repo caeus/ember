@@ -44,3 +44,21 @@ there are two causes; after, and Hugo's reveal gets to feel total before G005 un
 Row 9 (G005) is the only reveal that overturns another reveal rather than overturning scenes.
 `[OPEN]` whether the book wants more than one of these. Two is a structure; three is a
 gimmick.
+
+---
+
+## Sealed mechanics: not on the reader's reveal schedule
+
+**Canon §10 is author-only.** The connection between native Field activity, physical
+probability bias and the sustaining resource is **not** a scheduled reveal. It can remain
+unexplained forever; introducing it openly, if ever, is a separate very-late-story decision.
+
+What *may* appear earlier are interpretations that are productive but wrong:
+apparent simulation of possible futures, precognition, exceptional intuition, optimization,
+or extraordinary luck. A character or entity can believe it is *predicting* an outcome
+while unknowingly helping make it more probable. Neither POV narration nor research
+should confirm the underlying cause.
+
+The reader can witness improbable events, but must have credible alternative explanations.
+No reveal row, technical demonstration, repeated neat correlation, or exposition should
+quietly expose the hidden mechanism.
