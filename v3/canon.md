@@ -409,3 +409,81 @@ breaks at the level of prose.
 Imogen, Victoria, Clement and Hugo's paths **eventually intersect**. Do not force the
 intersections early, and do not invent a character's decision merely to make an
 intersection happen.
+
+---
+
+## 10. Hidden substrate: persistence and possibility (AUTHOR ONLY)
+
+**This is author-facing world physics, not an explanation available to characters or
+readers.** It does not supersede §2's semantic-not-sensory rule or §3's mystery discipline.
+Nothing here is scheduled for revelation. See `reveal-order.md`.
+
+### One breach, two more volatile realities
+
+The B2BI breach changes the possibilities available to **both** the physical world and
+the Field. Neither change is intrinsically fortunate or catastrophic. Each permits new
+forms of flourishing and new ways of failing.
+
+**In the Field:**
+
+- Before the breach, activity exhausted many native entities until they dissipated:
+  genuine extinction of their individual existence. Others survived by becoming nearly
+  inert, preserving themselves through dormancy. Entities differ greatly in sophistication,
+  persistence, power and needs; these axes are not interchangeable.
+- Human–Field coupling makes a sustaining resource available to native entities. Use
+  *coherence* only as a provisional author-side shorthand, **not** a settled in-world name
+  or a claim about its exact physical nature.
+- With more of it, transient entities may endure, dormant ones may become active, and
+  sufficiently supported entities might grow, stabilize, replicate or reproduce. With too
+  little, activity can still destroy them. The breach does not make everyone immortal.
+- Human access to native entities creates opportunities for cooperation, cultivation,
+  predation and exploitation **in both directions**. The resource is valuable precisely
+  because continued existence and agency can depend on it.
+
+**In physical reality:**
+
+- Native Field activity can **bias the probabilities of physical outcomes**. This is not
+  deterministic selection of outcomes, moralized good or bad luck, or proof that human
+  observation collapses quantum states in a special way. The microscopic route is
+  undecided; small probabilistic deviations may cascade to macroscopic effects.
+- An extreme outcome, even a seemingly impossible streak, is conceivable at sufficient
+  cost or influence. It must not become a routine or easily demonstrable superpower.
+- The broader price is **volatility**: greater unpredictability and access to unlikely
+  developments, not a balancing ledger in which every lucky event demands an unlucky one.
+  Systems may benefit, fail, adapt or unravel.
+
+**Shared principle:** greater access to possible states is neither automatically progress
+nor decay. Sustained existence in the Field and physical unpredictability are two
+manifestations of the breach's altered dynamics, not unrelated magic systems.
+
+### False theories that may work
+
+Some entities and humans may sincerely believe they **simulate possible futures, foresee
+outcomes, possess extraordinary intuition, or optimize decisions**. Such capabilities can
+be useful and apparently predictive while actually involving an unnoticed bias toward
+certain outcomes. Prediction and causation are easily confused. Native entities are not
+necessarily aware of the difference themselves.
+
+These are *lenses through which characters may misread effects*, not a public list of
+powers or a guaranteed mechanism behind every apparent coincidence.
+
+### Narrative embargo (hard)
+
+- Do not explain probability manipulation to characters or readers at an ordinary reveal
+  point. It may remain forever undisclosed; a very late revelation requires a separate
+  deliberate decision.
+- Hints must survive alternative explanations: chance, human choices, intuition, flawed
+  measurement, coincidence, or mistaken theories. No conspicuous chain of miracles that
+  exists only to advertise this secret.
+- Do not let researchers promptly obtain a repeatable test or convert a lucky event into
+  the true theory. Apparent future-simulation technology can develop around a **wrong but
+  useful** explanatory model.
+- This rule concerns physical outcome probabilities. Semantic Field communication still
+  reaches human brains only as meaning, rendered privately by each recipient (§2).
+
+**Still [OPEN]:** What exactly the sustaining resource is, how human coupling produces or
+replenishes it, how it is collected/stored/carried/transferred, the constraints and price
+of probability bias, and the eventual technologies built upon it. Possible directions
+include mediated shared dreaming, semantic knowledge transfer, and postmortem continuity;
+none is hereby guaranteed to work. Hugo's rigs remain the cause of the *observed cohorts*
+under §4; the hidden physical effects do not establish a second source of those events.
