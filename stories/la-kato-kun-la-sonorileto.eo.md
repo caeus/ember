@@ -140,7 +140,7 @@ Nun ili ambaux ridis. Lena brosis siajn dentojn, apogante unu manon kontraux la 
 
 Lena jam dormis antaux ol Mara malsxaltis la lumon.
 
-Mara revenis al la salono kaj respondis al unu mesagxo de sia sergxento. Nenio urga. Sxi agordis alarmon, faldis sian jakon sub la kapon kaj kusxigxis sur la sofon. La kato saltis sur la alian finon, dufoje turnigxis kaj ekkusxis kontraux sxiaj kruroj. Gxia sonorileto tusxis la lignan kadron kun mallaŭta tinteto.
+Mara revenis al la salono kaj respondis al unu mesagxo de sia sergxento. Nenio urga. Sxi agordis alarmon, faldis sian jakon sub la kapon kaj kusxigxis sur la sofon. La kato saltis sur la alian finon, dufoje turnigxis kaj ekkusxis kontraux sxiaj kruroj. Gxia sonorileto tusxis la lignan kadron kun mallauxta tinteto.
 
 Sxi denove pensis pri la viro en la koridoro, kiu metis la trancxilojn ekster la atingon de infano. Iam la penso cxesis.
 
