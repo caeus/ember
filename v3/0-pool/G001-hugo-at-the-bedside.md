@@ -44,6 +44,10 @@ question than the one she came in with.
 
 **Notes**
 
+- **Continuity hold.** Week-seven Hugo already interviewing other families about onset
+  times and electricity conflicts with the current late-discovery sequence in `canon.md`
+  §4 and G008. This scene's visitor, timing, or Hugo's knowledge must change before
+  development. See the continuity queue in `ledger.md`; this is not a user verdict.
 - **Beat 6 is the scene.** A witness present at onset who was not taken is cohort
   membership made personal: why him and not her. Canon §7 says membership stays
   unexplained, so she will never get an answer, and the question is designed to be
