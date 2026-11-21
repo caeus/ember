@@ -181,7 +181,7 @@ One file per genome. Filename `G###-slug.md`. The ID never changes as the genome
 ```markdown
 ---
 id: G001
-title: Hugo at the Bedside
+title: The Same Hour
 pov: <character, and their relation to the case>
 when: <position in chronology, relative — not a date>
 advances: [MYSTERY, CHAR]
