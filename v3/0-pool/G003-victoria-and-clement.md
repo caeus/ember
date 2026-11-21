@@ -2,48 +2,27 @@
 id: G003
 title: Victoria and Clement
 pov: Victoria
-when: before the original sleepers wake [OPEN — could sit either side]
-advances: [REL, CHAR, PLOT, MYSTERY]
+when: just after G010, the same evening; relative to the original event [OPEN]
+advances: [REL, CHAR]
 status: pool
-parents: [candidate-3]
+parents: [candidate-3, G010]
 needs: []
 ---
 
-**Logline.** Victoria sleeps with Clement, who afterwards says something with total
-conviction that he has no way of knowing; she files it as bad intimacy and leaves.
+**Logline.** Victoria leaves an enjoyable encounter behind and goes about her evening. The reader learns immediately that Clement's unnamed woman is Victoria, while Clement still knows nothing about her.
 
 **Beats**
 
-1. Establish Victoria's agency flatly and without apology. She chose this, she wanted it,
-   she is enjoying her life. Nothing here is a symptom, a coping mechanism or a cry for
-   help, and the prose must not hedge about it.
-2. Clement talks. His worldview surfaces in something he says before or after — she finds
-   it tedious rather than threatening, and declines to argue. She is not here to fix him
-   and the scene must not imply she should be.
-3. Afterwards, lying there, he says something with complete conviction — a statement about
-   her, or about himself, or about someone absent, that he has no way of knowing.
-   `[OPEN: the content, and whether it is correct or merely wrong in a very specific way]`
-4. Her reaction is **social, not supernatural**. She assumes he's been told by someone,
-   or guessed, or is performing intimacy badly because he doesn't know how else to do it.
-5. He is far more unsettled by it than she is. From outside — and outside is all we get —
-   it reads as a man frightened by his own sincerity.
-6. She leaves on her own terms, unbothered, already thinking about something else.
-7. Nothing is explained to anyone. The scene's whole payload is that *something passed*,
-   and neither of them had a category to put it in.
+1. Victoria leaves the alley and waits for her ride. She is named in the first line of her POV. The scene does not replay the encounter.
+2. She wanted the encounter and enjoyed it. It was not rescue, charity, compulsion or a promise. Her account of the evening has little in common with Clement's private transformation.
+3. One of Clement's comments about women comes back to her. She found it tedious but did not go there to debate his worldview or repair him.
+4. A message from elsewhere in her life arrives `[OPEN: sender and content]`. She answers and continues with her own plans. She does not wonder whether the man in the alley will look for her.
+5. Her ride comes. The scene ends without portent.
 
 **Notes**
 
-- **Continuity hold with G010.** The alley genome needs Victoria's identity concealed,
-  while this POV exposes her if it is the same encounter. Treat these as alternative
-  constructions until their order/identity reveal is explicitly chosen; do not draft both
-  unchanged. The options are recorded in G010 and the `ledger.md` continuity queue.
-- PLOT: this is the priming/sensitization vector doing its work in plain sight, unlabelled.
-  The reader shouldn't be able to name it either — on a first read this is a scene about a
-  bad post-coital moment.
-- POV discipline: Clement's interior is **off-limits**. We get his words, his face, his
-  hands. What the certainty feels like from inside belongs to a Clement-POV genome, and
-  that genome should be generated separately so the two can be read against each other.
-- CHAR guardrail: if the draft makes her sexuality read as compulsion, driven-ness or
-  damage, it has failed and should be demoted regardless of how good the prose is.
-- Sets up the `[OPEN, non-sacred]` guilt thread in `canon.md` §4 — but only if this scene
-  stays morally neutral now. Any foreshadowing of her later remorse ruins it.
+- **G010 and G003 are consecutive, different POV scenes.** G010 begins Clement's search. This scene names Victoria immediately; the reader does not spend chapters guessing who she is. Clement's ignorance remains part of his experience, not a reader-facing cliffhanger.
+- Their asymmetry is the point: the encounter changes Clement's self-story, not necessarily Victoria's. Her independent life remains important.
+- The old scaffold's unexplained, confidently spoken revelation is **not part of this encounter**. It was a speculative extra clue that G010 did not support. Reintroduce it only as a separate scene if it earns a consequence, rather than planting a supernatural hint here.
+- A sexual encounter with Victoria **may** have primed Clement under canon §4, but whether it did remains `[OPEN]`; this scene neither proves nor foreshadows it.
+- Do not pathologize Victoria's sexuality. Clement's interior is not accessible from her POV.
