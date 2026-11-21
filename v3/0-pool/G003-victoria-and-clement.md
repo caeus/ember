@@ -33,6 +33,10 @@ conviction that he has no way of knowing; she files it as bad intimacy and leave
 
 **Notes**
 
+- **Continuity hold with G010.** The alley genome needs Victoria's identity concealed,
+  while this POV exposes her if it is the same encounter. Treat these as alternative
+  constructions until their order/identity reveal is explicitly chosen; do not draft both
+  unchanged. The options are recorded in G010 and the `ledger.md` continuity queue.
 - PLOT: this is the priming/sensitization vector doing its work in plain sight, unlabelled.
   The reader shouldn't be able to name it either — on a first read this is a scene about a
   bad post-coital moment.
