@@ -51,9 +51,9 @@ Carried over from the four unscored candidates. Written as beat scaffolds, all i
 
 | id | title | pov | when | advances | verdict | notes |
 |---|---|---|---|---|---|---|
-| G001 | Hugo at the Bedside | caretaker (sleeper's sister) | ~wk 7 of the sleep | MYSTERY, CHAR, WB | | |
+| G001 | The Same Hour | caretaker (sleeper's sister) | ~wk 7 of the sleep | MYSTERY, CHAR, WB | | independent synchrony inquiry; not Hugo |
 | G002 | Near Leaves | Imogen, asleep | mid-sleep | CHAR, REL, WB | | |
-| G003 | Victoria and Clement | Victoria | pre-waking | REL, CHAR, PLOT, MYSTERY | | |
+| G003 | Victoria and Clement | Victoria | immediately after G010 | REL, CHAR | | names her to reader; Clement remains unaware |
 | G005 | Victoria Was There | Victoria | flashback, read after row 8 | PLOT, REL, MYSTERY, CHAR | | yours, added out of band |
 | G010 | The Alley | Clement | early | CHAR, REL, PLOT | | yours, added out of band |
 
@@ -74,12 +74,12 @@ the reader has lived through, and that material has to exist first.
 
 **Established:** event duration equals rig uptime (§4); the first cohort wakes when Hugo unplugs while clearing his flat on 26 October 2031 (§6a). These are no longer proposals.
 
+**Resolved by user direction:** G001 is now `The Same Hour`, a caretaker meeting a researcher curious about apparently synchronous cases; **it is not Hugo**, and the questions do not imply a causal discovery. G010 is Clement's encounter with an unnamed woman; G003 names her as Victoria to the reader **immediately afterward**. Her identity is no prolonged mystery, although Clement still lacks her name. Both scenes remain unscored.
+
 | material | outstanding collision / consolidation task |
 |---|---|
-| **G001 ↔ canon §4, G008** | G001 puts a stranger implied to be Hugo conducting timestamp-and-power interviews in week 7. Hugo is supposed to be at the bedside, to have forgotten the rig, and to connect its timing only later. Either redate the visit, change the visitor, or explicitly revise Hugo's awareness. Do not silently keep all three. |
 | **First replicas ↔ G007/G008** | §1 fixes replicas beginning 1–2 weeks before the original waking. The explanation that handling units while packing triggered accidental replicas is still `[PROPOSED]` in §4. Do not write the deliberate second run as an early replica until the chronology is chosen. |
 | **G007/G009** | Clarify the closest sleeper's relation to Hugo and whether they are awake during the second run. G009 depends on the second taking of the same person; do not fabricate that relationship. |
-| **G003 ↔ G010** | G010 conceals the woman's identity; G003 currently names Victoria as POV at what appears to be the same encounter. Choose a delayed identity reveal, a distinct later encounter, or retirement/recombination of G003 before drafting either. |
 | **G002 ↔ G014 / E004** | Both may make Near thin or withdraw. Separate the emotional function of the scenes and decide their order; G014 also requires an undecided premise about containment/release, not a confirmed monster. |
 | **G004 ↔ G006** | Both dramatize procedural repetition. Preserve their different pressure (hope vs. method/penance), or consolidate them; avoid two equivalent setup scenes. Both remain stashed. |
 | **E005/E006 ↔ canon §4** | Deaths attributed to runs, the specificity of released blueprints, and any independent replication are unaccepted. Publication or public blame cannot quietly create a second source of cohorts. |
