@@ -53,7 +53,7 @@ Carried over from the four unscored candidates. Written as beat scaffolds, all i
 |---|---|---|---|---|---|---|
 | G001 | The Same Hour | caretaker (sleeper's sister) | ~wk 7 of the sleep | MYSTERY, CHAR, WB | | independent synchrony inquiry; not Hugo |
 | G002 | Near Leaves | Imogen, asleep | mid-sleep | CHAR, REL, WB | | |
-| G003 | Victoria and Clement | Victoria | immediately after G010 | REL, CHAR | | names her to reader; Clement remains unaware |
+| G003 | Victoria and Clement | Victoria (first POV) | shortly after G010 in reader order; exact placement open | REL, CHAR | | identifies unnamed woman after intervening scenes |
 | G005 | Victoria Was There | Victoria | flashback, read after row 8 | PLOT, REL, MYSTERY, CHAR | | yours, added out of band |
 | G010 | The Alley | Clement | early | CHAR, REL, PLOT | | yours, added out of band |
 
@@ -74,7 +74,7 @@ the reader has lived through, and that material has to exist first.
 
 **Established:** event duration equals rig uptime (§4); the first cohort wakes when Hugo unplugs while clearing his flat on 26 October 2031 (§6a). These are no longer proposals.
 
-**Resolved by user direction:** G001 is now `The Same Hour`, a caretaker meeting a researcher curious about apparently synchronous cases; **it is not Hugo**, and the questions do not imply a causal discovery. G010 is Clement's encounter with an unnamed woman; G003 names her as Victoria to the reader **immediately afterward**. Her identity is no prolonged mystery, although Clement still lacks her name. Both scenes remain unscored.
+**Resolved by user direction:** G001 is now `The Same Hour`, a caretaker meeting a researcher curious about apparently synchronous cases; **it is not Hugo**, and the questions do not imply a causal discovery. G010 is Clement's encounter with an unnamed woman; G003 provides the **first Victoria POV**, revealing her identity **relatively soon, but not immediately**. Some intervening material is intended; exact placement is open. Her identity is not a major mystery, and Clement still lacks her name. Both scenes remain unscored.
 
 | material | outstanding collision / consolidation task |
 |---|---|
