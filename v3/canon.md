@@ -442,10 +442,11 @@ forms of flourishing and new ways of failing.
 
 **In physical reality:**
 
-- Native Field activity can **bias the probabilities of physical outcomes**. This is not
-  deterministic selection of outcomes, moralized good or bad luck, or proof that human
-  observation collapses quantum states in a special way. The microscopic route is
-  undecided; small probabilistic deviations may cascade to macroscopic effects.
+- Native Field activity can **bias which physically possible outcomes become actual**.
+  This is not moralized good or bad luck, nor proof that human observation collapses
+  quantum states in a special way. The microscopic route remains undecided; a favored
+  trajectory is not guaranteed to succeed, and small deviations may cascade into
+  macroscopic consequences.
 - An extreme outcome, even a seemingly impossible streak, is conceivable at sufficient
   cost or influence. It must not become a routine or easily demonstrable superpower.
 - The broader price is **volatility**: greater unpredictability and access to unlikely
@@ -456,16 +457,44 @@ forms of flourishing and new ways of failing.
 nor decay. Sustained existence in the Field and physical unpredictability are two
 manifestations of the breach's altered dynamics, not unrelated magic systems.
 
-### False theories that may work
+### Branching search: the lightning analogy (AUTHOR ONLY)
 
-Some entities and humans may sincerely believe they **simulate possible futures, foresee
-outcomes, possess extraordinary intuition, or optimize decisions**. Such capabilities can
-be useful and apparently predictive while actually involving an unnoticed bias toward
-certain outcomes. Prediction and causation are easily confused. Native entities are not
-necessarily aware of the difference themselves.
+**Working physical model, not reader knowledge.** Instead of simulating complete parallel
+universes, an entity may grow a branching network of *possible continuations*, much as a
+lightning leader explores branching routes until a connection forms. Local alternatives
+propagate, split and die out; a trajectory reaching the desired condition can be favored as
+the history that occurs. The intended outcome acts *like* a potential directing growth,
+not as knowledge of the entire correct path in advance. This is an analogy, not literal
+electromagnetism or established quantum physics. `[OPEN]` Whether branches are physically
+real, computational counterfactuals, or another process entirely.
 
-These are *lenses through which characters may misread effects*, not a public list of
-powers or a guaranteed mechanism behind every apparent coincidence.
+- **Real energy, efficient search.** Growing, maintaining and testing paths consumes
+  usable energy (available work), rather than requiring a whole universe's worth per
+  branch. Millions of shallow alternatives might cost only the energy of a light bulb
+  running for five seconds. Deep, long-lived, tightly constrained searches may cost far
+  more; a cryptographic secret offers no reliable gradient from a wrong partial guess.
+  The exact scaling law and what happens to discarded branches remain `[OPEN]`.
+- **The bond is the interface.** Human–Field coupling somehow makes physical free energy
+  accessible to entities; it need not mean that the host's metabolism supplies all the
+  work. Which reservoir is tapped, how it crosses the interface, and where waste heat or
+  entropy appears remain `[OPEN]`.
+- **Capacity is not the same as energy.** Only some entities can direct branching toward
+  remote or exceptionally narrow conditions. Exceptional steering need not be energetically
+  extravagant. Ordinary entities may manage only weak local biases, even with ample energy.
+- **The human price can be coupling, not fuel.** Deep or prolonged use may displace a
+  bonded person's agency, affect and vitality until they resemble a nearly empty proxy.
+  If the entity stops using them, the person can gradually recover. This cost need not
+  scale directly with the energy spent.
+
+### Apparent prediction versus steering
+
+Some entities and humans may sincerely believe they **simulate futures, foresee outcomes,
+possess extraordinary intuition, or optimize decisions**. Such abilities may appear
+predictive even when the process is selecting or favoring viable trajectories. Prediction
+and causation are easily confused, and native entities need not understand the distinction.
+
+These remain *possible explanations behind observed effects*, not a public taxonomy or
+proof of a specific microscopic mechanism.
 
 ### Narrative embargo (hard)
 
@@ -481,9 +510,9 @@ powers or a guaranteed mechanism behind every apparent coincidence.
 - This rule concerns physical outcome probabilities. Semantic Field communication still
   reaches human brains only as meaning, rendered privately by each recipient (§2).
 
-**Still [OPEN]:** What exactly the sustaining resource is, how human coupling produces or
-replenishes it, how it is collected/stored/carried/transferred, the constraints and price
-of probability bias, and the eventual technologies built upon it. Possible directions
+**Still [OPEN]:** Which physical reservoir supplies usable work, how a human bond
+transfers it, the actual status of branches, the scaling and thermodynamic cost of search,
+and the eventual technologies built upon this interaction. Possible directions
 include mediated shared dreaming, semantic knowledge transfer, and postmortem continuity;
 none is hereby guaranteed to work. Hugo's rigs remain the cause of the *observed cohorts*
 under §4; the hidden physical effects do not establish a second source of those events.
