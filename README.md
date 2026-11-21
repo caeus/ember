@@ -22,6 +22,6 @@ The active continuity is **v3**. Start with [v3/canon.md](v3/canon.md); the root
 - 8 event candidates (E001–E008), none canonically accepted.
 - No `1-kept/`, `2-developed/`, or `3-spine/` scenes yet.
 
-**Next pass:** consolidate and score the existing material before generating more. The [continuity and assimilation queue](v3/ledger.md#continuity-and-assimilation-queue) identifies blockers, especially Hugo's timing and G003/G010's competing reveal logic. The queue is editorial analysis, **not** a verdict.
+**Next pass:** score and develop the existing material before generating more. The [continuity and assimilation queue](v3/ledger.md#continuity-and-assimilation-queue) distinguishes unresolved debts from the recently resolved G001 and G003/G010 collisions. The queue is editorial analysis, **not** a verdict.
 
 The recurring dramatic pressure across threads is **ambiguous experience → interpretation → choice → lasting consequence**. That is a useful scene test, not a new world rule.
