@@ -1,28 +1,29 @@
 ---
 id: G003
 title: Victoria and Clement
-pov: Victoria
-when: just after G010, the same evening; relative to the original event [OPEN]
+pov: Victoria — her first POV scene in the book
+when: after G010 and a short interval of reader time; exact placement [OPEN]
 advances: [REL, CHAR]
 status: pool
 parents: [candidate-3, G010]
 needs: []
 ---
 
-**Logline.** Victoria leaves an enjoyable encounter behind and goes about her evening. The reader learns immediately that Clement's unnamed woman is Victoria, while Clement still knows nothing about her.
+**Logline.** In the course of her own ordinary life, Victoria recalls the man she met in an alley; the reader recognizes Clement's unnamed woman without the book making an elaborate mystery of her identity.
 
 **Beats**
 
-1. Victoria leaves the alley and waits for her ride. She is named in the first line of her POV. The scene does not replay the encounter.
-2. She wanted the encounter and enjoyed it. It was not rescue, charity, compulsion or a promise. Her account of the evening has little in common with Clement's private transformation.
-3. One of Clement's comments about women comes back to her. She found it tedious but did not go there to debate his worldview or repair him.
-4. A message from elsewhere in her life arrives `[OPEN: sender and content]`. She answers and continues with her own plans. She does not wonder whether the man in the alley will look for her.
-5. Her ride comes. The scene ends without portent.
+1. Enter Victoria's own life, not Clement's search. Give her an immediate, self-contained situation and choice `[OPEN: concrete situation]`, worth reading independently of the identity reveal.
+2. Show what she wants and how she acts. Her sexuality is hers, neither a symptom nor an obligation to anyone else.
+3. Something ordinary prompts a fleeting memory of the alley encounter `[OPEN: trigger]`. The detail is recognizable to the reader from G010, but means much less to her than it does to Clement.
+4. She has no idea that Clement is searching for her. The scene stays inside her understanding and does not invent his current actions.
+5. Return to the choice in her own scene and let that choice, not the recognition, carry the ending `[OPEN: consequence]`.
 
 **Notes**
 
-- **G010 and G003 are consecutive, different POV scenes.** G010 begins Clement's search. This scene names Victoria immediately; the reader does not spend chapters guessing who she is. Clement's ignorance remains part of his experience, not a reader-facing cliffhanger.
-- Their asymmetry is the point: the encounter changes Clement's self-story, not necessarily Victoria's. Her independent life remains important.
-- The old scaffold's unexplained, confidently spoken revelation is **not part of this encounter**. It was a speculative extra clue that G010 did not support. Reintroduce it only as a separate scene if it earns a consequence, rather than planting a supernatural hint here.
+- **First Victoria POV.** Do not use her POV anywhere earlier. Her identity as Clement's unnamed partner is disclosed in this scene, **after some intervening material following G010**, but not dragged out as a mystery. The exact placement is deliberately open.
+- **Not an immediate sequel.** This scene does not have to take place the same evening or replay the encounter. Its primary job is to establish Victoria as a person with her own concerns; the reader's recognition is incidental.
+- **Asymmetry:** Clement's encounter may reorder his life, while for Victoria it may be one experience among many. That contrast carries more weight than a surprise reveal.
+- The old scaffold's unexplained, confidently spoken revelation is **not part of this encounter**. Reintroduce it only as a separate scene if it earns a consequence rather than planting a supernatural hint here.
 - A sexual encounter with Victoria **may** have primed Clement under canon §4, but whether it did remains `[OPEN]`; this scene neither proves nor foreshadows it.
 - Do not pathologize Victoria's sexuality. Clement's interior is not accessible from her POV.
