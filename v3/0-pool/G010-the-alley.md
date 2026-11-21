@@ -35,7 +35,7 @@ and it is the best thing that has ever happened to him.
    notice he has a problem.
 6. She leaves without ceremony and **without a name.** He doesn't ask — asking isn't in his
    script, and by the time he thinks of it she's gone. He will need a name to find her;
-   the reader doesn't need to be kept guessing about it.
+   the reader will learn who she is relatively soon, though not in the next scene.
 7. Afterwards: the reinterpretation. He does not conclude *I was wrong about women.* He
    concludes **he was right all along and has finally been recognized** — the world
    corrected itself, late, in his favour. The resentment survives intact and is now
@@ -45,13 +45,14 @@ and it is the best thing that has ever happened to him.
 
 **Notes**
 
-- **She is Victoria.** G010 follows Clement's knowledge, so he never names her; G003
-  immediately follows from Victoria's POV and names her plainly. No extended identity
-  mystery, artificial concealment of distinctive details, or surprise-reveal payoff.
+- **She is Victoria.** G010 follows Clement's knowledge, so he never names her.
+  After some intervening material, G003 introduces Victoria's first POV and lets the
+  reader recognize her as the woman in the alley. Do not prolong this into a major
+  mystery or build a cheap cliffhanger around her name.
 - **This starts the hunt.** His life reorganizes around finding a woman whose name he
-  doesn't have. The reader knows whom he seeks; tension comes from his interpretations,
-  decisions and their costs, not the answer to "who was she?" The hunt remains a sequence
-  of scenes — see the backlog.
+  doesn't have. The reader learns whom he seeks relatively soon, but Clement remains
+  ignorant; the lasting tension is in his interpretations, decisions and their costs.
+  The hunt remains a sequence of scenes — see the backlog.
 - **The worldview is stressed, not refuted** (canon §4). Beat 7 is the point: the encounter
   should have broken his model and instead it *fed* it. The breaking comes much later and
   costs much more. Any version where he softens here is wrong.
