@@ -53,7 +53,7 @@ Carried over from the four unscored candidates. Written as beat scaffolds, all i
 |---|---|---|---|---|---|---|
 | G001 | The Same Hour | caretaker (sleeper's sister) | ~wk 7 of the sleep | MYSTERY, CHAR, WB | | independent synchrony inquiry; not Hugo |
 | G002 | Near Leaves | Imogen, asleep | mid-sleep | CHAR, REL, WB | | |
-| G003 | Victoria and Clement | Victoria (first POV) | shortly after G010 in reader order; exact placement open | REL, CHAR | | identifies unnamed woman after intervening scenes |
+| G003 | The Promise | Victoria (first POV) | after G010 with intervening scenes; exact placement open | CHAR, REL, PLOT | | wants monogamy; cheated with Clement; weaponizes boyfriend's jealousy |
 | G005 | Victoria Was There | Victoria | flashback, read after row 8 | PLOT, REL, MYSTERY, CHAR | | yours, added out of band |
 | G010 | The Alley | Clement | early | CHAR, REL, PLOT | | yours, added out of band |
 

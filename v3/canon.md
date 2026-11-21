@@ -230,6 +230,20 @@ reader has already absorbed**. Do not introduce him early as "the guy behind eve
 Victoria is **genuinely highly sexual and adventurous before B2BI**. The Field does not
 make her sexual. Her sexuality stays **agentic and is never pathologized**.
 
+
+**Early relationship conflict (G003).** Victoria is deeply involved with a possessive,
+conventionally minded boyfriend. **She wants reciprocal monogamy and genuinely wants to be
+faithful**, but has cheated with Clement; whether she has cheated with others remains open.
+The infidelity is an unwanted contradiction in her own conduct, not a covert preference
+for an open relationship.
+
+The relationship is mutually toxic: she sometimes uses his jealousy, and the possibility
+or reality of other partners, **deliberately to torment him**, even while feeling guilty
+about her infidelity. His possessiveness and her manipulation are distinct wrongs; neither
+reduces the other to an innocent victim or excuses their conduct. The boyfriend's identity
+is `[OPEN]`. Her later relationship preferences, including asymmetric expectations,
+consensual nonmonogamy, or renewed monogamy, remain `[OPEN]`.
+
 Unknown to Victoria, and initially to the reader: **sexual contact with her can prime or
 sensitize people to the Field.** Partners carry an increased probability of later
 manifestation.
