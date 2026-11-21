@@ -15,6 +15,7 @@ lives in.
 v3/
 ├── canon.md            binding world rules
 ├── protocol.md         this file
+├── events.md           candidates for consequential canonical events (NOT canon)
 ├── reveal-order.md     what the reader learns, and in what order
 ├── ancestors.md        pre-reset genetic material (not canon)
 ├── ledger.md           generation log + scores
@@ -61,14 +62,52 @@ Notes outrank anything the agent previously wrote in the same file. A note on a
 
 ---
 
+## Event-shock proposals (a separate, nonbinding layer)
+
+When the user asks what could happen next or later, propose **12 short candidate canonical
+events** before generating more scenes. These are possible future *changes to the story's
+history*, not additions to canon. This is a different lens from extrapolating current
+threads or producing four more scene variants.
+
+- Make **disruptions**, not just consequences of known plots: accidents, private crises,
+  betrayals, irreversible decisions, institutional mistakes, unintended side effects and
+  unlikely collisions.
+- Each proposal must imply a causal chain: **event -> emotional disturbance -> believable
+  (possibly irrational) decision -> lasting change in trajectory**.
+- Make it concrete and actionable in one or two sentences; do not write a mini-plot.
+- Vary the scale, chronology, characters and source of pressure. Some proposals can be
+  wholly unrelated to the Field. Do not force convergence toward an assumed ending.
+- Preserve the uncertainty of the Field and the embargo on its hidden mechanics. Expose
+  conflicting values, not explanatory shortcuts.
+- A proposal may be **favored** by the user without being canon. The agent may not turn
+  approval, enthusiasm or a good genome into binding history. **Only an explicit user
+  decision makes an event canon.**
+
+Record selected ideas in `events.md`, with their status and any canon conflict.
+`favored` means worth exploring, **not** accepted. `deferred` preserves a compelling
+but costly possibility without forcing it into the narrative.
+
+If the user wants scenes, transform selected event candidates into **one-scene, one-POV
+genomes**, in normal four-genome generations under `0-pool/`. Each scene dramatizes one
+choice or reversal; it must not summarize the entire event chain. Put broader consequences
+in its Notes, and any assumed unclosed facts in `needs`. Genomes continue to require user
+scoring and promotion through the existing ladder.
+
+An explicitly accepted event belongs in `canon.md` as a binding history fact, and gets a
+`reveal-order.md` row only if the reader must learn it at a particular point. Accepting an
+event does **not** automatically promote its scene genomes.
+
+---
+
 ## The scene is the atom
 
-There is no layer below the scene. If something is worth having it is **a scene**, **a rule
-in `canon.md`**, or **a row in `reveal-order.md`**. Nothing floats in between.
+There is no layer **below** the scene. Scene execution remains atomic: a beat is
+not a separate asset. A *candidate canonical event* in `events.md` sits **above**
+scenes, as a possible change in story history, and is nonbinding until the user accepts it.
+It is not a substitute for a scene and cannot be used as evidence of canon.
 
-An idea that cannot be made into a scene is either a rule — in which case it belongs in
-canon, where it binds every scene — or it is nothing, and finding that out early is the
-point of the constraint.
+Outside those event-shock candidates, an idea worth keeping becomes **a scene**, **a rule
+in `canon.md`**, or **a row in `reveal-order.md`**.
 
 Unwritten scenes wait in the **backlog** at the top of `ledger.md`, one line each. A
 backlog line is not an asset. It becomes real when a generation picks it up and it survives

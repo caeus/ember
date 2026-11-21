@@ -138,12 +138,42 @@ first real name arriving is itself an event.
 
 ---
 
-## Generation 002 — not yet generated
+## Generation 002 — event-shock seeds
 
-Candidate axes, if gen 001's spread flaw is the thing to fix:
+One scene per genome. All in `0-pool/`, all unscored. These do **not** establish the
+larger event candidates as canon.
 
-- an institutional or bureaucratic POV inventing a wrong category
-- a public-scale scene — the phenomenon as news, rumour or joke before it is a phenomenon
-- Clement's POV on the G003 encounter, written so the two can be read against each other
-- a Murmuration mutation: an affected animal, observed by someone with no framework
-- an original sleeper **after** waking, failing to describe anything useful
+| id | title | pov | advances | event | verdict |
+|---|---|---|---|---|---|
+| G011 | The Accusation | journalist's spouse | CHAR, REL, PLOT | E001 | |
+| G012 | Let Me Back | awakened sleeper | CHAR, REL, PLOT | E002 | |
+| G013 | The Clip | Clement | CHAR, REL, PLOT | E003 | |
+| G014 | The Unsealing | Imogen, asleep | REL, CHAR, MYSTERY | E004 | |
+
+**Spread:** private/press fallout, post-waking rejection, ideological public choice,
+Field-side moral mistake. G014 does not certify that the freed entity is dangerous.
+
+---
+
+## Generation 003 — leaks and their human costs
+
+Another four unscored scenes, not a four-scene plot sequence. The proposed Hugo leak
+and anonymous political whistleblowing **need not have a common cause**.
+
+| id | title | pov | advances | event | verdict |
+|---|---|---|---|---|---|
+| G015 | Publish | Hugo | CHAR, PLOT | E005 | |
+| G016 | The Second Account | investigator | PLOT, MYSTERY, WB | E007 | |
+| G017 | The Source Hunt | bereaved relative | CHAR, PLOT, WB | E006 | |
+| G018 | The Unbidden Draft | second source's partner | CHAR, REL, MYSTERY | E007 | |
+
+**Canon guardrails:** Hugo's operational blueprints are not a theory of the Field.
+Any successful reproduction of sleeper cohorts by someone else conflicts with
+`canon.md` §4 (Hugo is the sole cause) and requires an explicit change. Deaths
+attributable to his runs, the mechanism for freeing an entity, and the whistleblower
+handoff remain unconfirmed premises. The political dossier is **not** evidence for
+the author-only physics in §10.
+
+**Deferred, not seeded as a genome:** E008, Victoria taking custody of an abandoned
+child. The emotional appeal is strong; the legal and long-term story obligations are
+substantial, and the user has not decided to incur them.
