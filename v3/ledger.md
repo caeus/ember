@@ -1,17 +1,16 @@
 # Ledger
 
-Scoring record. The user writes in this file; the agent only appends new generations and
-new ideas.
+Scoring record and editorial queue. The user owns verdicts and promotion. The agent may
+maintain the queue and append generations, but may not invent scores or promote scenes.
 
 ---
 
 ## Scene backlog
 
-**The scene is the atom.** There is no idea layer. If something is worth having, it is a
-scene, a rule in `canon.md`, or a row in `reveal-order.md` — nothing floats in between.
-
-These are unwritten scenes, one line each. They become genomes when a generation picks them
-up. A line that never becomes a scene was never an idea worth having.
+**The scene is the atom of narrative execution.** This backlog contains unwritten scene
+seeds, not independent assets. Candidate story-history events live separately in
+`events.md`, nonbinding until the user accepts them. A seed becomes a genome only when
+generated; it is not a score or a commitment.
 
 | # | the scene | likely POV | advances |
 |---|---|---|---|
@@ -69,72 +68,35 @@ the reader has lived through, and that material has to exist first.
 
 ---
 
-## Resolved: the disconnection chronology
+## Continuity and assimilation queue
 
-Two events, two scenes — G008 (the flat is cleared, the cohort wakes) and G009 (a later run
-takes the same person again). **Duration-is-uptime is now canon**, promoted out of
-`[PROPOSED]` because your three-months explanation presupposes it; say the word if that was
-a step too far.
+**Editorial debts, not verdicts.** Keep unresolved questions visible rather than resolving them through prose. Binding statements live in `canon.md`; unaccepted event candidates live in `events.md`. No genome has been scored or promoted.
 
-One wrinkle left tagged in canon §4: §1 has replicas starting one to two weeks before the
-originals wake, but a man who has forgotten the rig isn't running experiments. Proposed
-resolution — he returns to pack, rediscovers the units, and *handles* them. The first
-replicas are accidents too.
+**Established:** event duration equals rig uptime (§4); the first cohort wakes when Hugo unplugs while clearing his flat on 26 October 2031 (§6a). These are no longer proposals.
 
-### Superseded reconstruction
+| material | outstanding collision / consolidation task |
+|---|---|
+| **G001 ↔ canon §4, G008** | G001 puts a stranger implied to be Hugo conducting timestamp-and-power interviews in week 7. Hugo is supposed to be at the bedside, to have forgotten the rig, and to connect its timing only later. Either redate the visit, change the visitor, or explicitly revise Hugo's awareness. Do not silently keep all three. |
+| **First replicas ↔ G007/G008** | §1 fixes replicas beginning 1–2 weeks before the original waking. The explanation that handling units while packing triggered accidental replicas is still `[PROPOSED]` in §4. Do not write the deliberate second run as an early replica until the chronology is chosen. |
+| **G007/G009** | Clarify the closest sleeper's relation to Hugo and whether they are awake during the second run. G009 depends on the second taking of the same person; do not fabricate that relationship. |
+| **G003 ↔ G010** | G010 conceals the woman's identity; G003 currently names Victoria as POV at what appears to be the same encounter. Choose a delayed identity reveal, a distinct later encounter, or retirement/recombination of G003 before drafting either. |
+| **G002 ↔ G014 / E004** | Both may make Near thin or withdraw. Separate the emotional function of the scenes and decide their order; G014 also requires an undecided premise about containment/release, not a confirmed monster. |
+| **G004 ↔ G006** | Both dramatize procedural repetition. Preserve their different pressure (hope vs. method/penance), or consolidate them; avoid two equivalent setup scenes. Both remain stashed. |
+| **E005/E006 ↔ canon §4** | Deaths attributed to runs, the specificity of released blueprints, and any independent replication are unaccepted. Publication or public blame cannot quietly create a second source of cohorts. |
+| **E007 / G016/G018** | Separate the two whistleblower POVs by consequence rather than merely repeating the vacant-source clue. Jurisdiction, political scope, and means of succession remain open. |
+| **Reveal rows 6–7** | B2BI's naming origin and the placement of Victoria's priming reveal remain open. Keep these unplaced rather than allowing a scene to decide them accidentally. |
 
-Your line — *"That person goes to sleep, when he disconnects his units, people start waking
-up"* — reads two ways, and they are different books. I've written G007 to survive both and
-tagged canon `[PROPOSED]` rather than pick.
+## Naming register (open)
 
-The reconstruction that makes everything cohere:
+Different speakers need not call the same phenomenon the same thing. Candidates only, none selected:
 
-1. Run 1 fires by accident and sits powered in the flat for ~3 months. His close person is
-   taken with the rest.
-2. ~1–2 weeks before the end he starts deliberate testing on a subset of units — run 2.
-   This satisfies canon §1 (replicas begin before the originals wake). His person is not
-   taken again. **Relief → coincidence → G007.**
-3. Eviction forces a full disconnect. Run 1 ends. **The original cohort wakes.**
-4. Later, a run takes his person. The coincidence defence dies.
-
-**What doesn't fit:** your sentence can also be read as the person going under *at the
-moment of disconnection* — the same act that frees everyone else takes his. That is a far
-crueller shape, and the only one where the sentence is a single event rather than two.
-It needs a mechanism for why disconnection takes someone, which nothing else in canon
-supplies.
-
-**Which is it?** The answer changes G007's beat 4, B15, B16, and whether duration-is-uptime
-survives.
-
----
-
-## Open question: what are the events called?
-
-"Event" is placeholder and you're right that it's weak. The object needs a name in up to
-three registers, which may be the most useful part of the problem:
-
-| register | who uses it | effect |
+| register | candidates | dramatic use |
 |---|---|---|
-| **clinical** | hospitals, researchers, the eventual official response | precise, wrong, and binding — pairs with reveal row 6 and backlog B9 |
-| **folk / press** | everyone else | arrives first, sticks hardest, probably cruel |
-| **Hugo's** | Hugo, in his notebook, alone | the horror: his word is procedural. *Runs.* |
+| Folk / press | *the stills*, *a quiet*, *going under*, possibly *the 26th* | emerges first, from affected people |
+| Clinical | *synchronous dormancy* (SDE), *concurrence*, eventually B2BI | precise-sounding, potentially wrong categorization |
+| Hugo's private register | *runs* | procedural language revealed only after his late arrival |
 
-Three words for one object, and the reader learns them in that order — folk, then clinical,
-then, after row 8, Hugo's. The third recontextualizes the other two.
-
-**Candidate directions, none chosen:**
-
-- *the stills* / *a still* — folk, flat, slightly tender
-- *a quiet* / *the quiets* — folk, euphemistic, what families would actually say
-- *going under* — folk, verb-first, no noun at all until the press needs one
-- *synchronous dormancy* → **SDE** — clinical, acronym-ready, visibly a category someone
-  invented in a hurry
-- *concurrence* / *a concurrence* — clinical, names the only real evidence (the timing)
-  and nothing else
-- *runs* — Hugo's, and only Hugo's
-
-**Also open:** whether the book withholds any noun at all for a long stretch, so that the
-first real name arriving is itself an event.
+This is a terminology decision, not another scene. See `canon.md` §6 and reveal row 6.
 
 ---
 
