@@ -7,6 +7,10 @@ first.
 
 Everything here stays relevant and comes back when there is a book for it to reverse.
 
+This folder is **not a promotion tier or a rejection verdict**. Each file deliberately
+retains `status: pool`. They are paused and excluded from active pool scoring until the
+user brings them back; nothing here is automatically canon or committed prose.
+
 | id | title | holds |
 |---|---|---|
 | G004 | The Second Experiment | run 3; the hope underneath the relief |
