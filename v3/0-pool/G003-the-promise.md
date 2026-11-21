@@ -6,26 +6,27 @@ when: after G010, with some intervening scenes; exact placement [OPEN]
 advances: [CHAR, REL, PLOT]
 status: pool
 parents: [candidate-3, G010]
-needs: ["identity of Victoria's current boyfriend; whether he is Hugo or someone else"]
+needs: ["identity of Victoria's boyfriend; if Hugo, how to preserve reveal row 9"]
 ---
 
-**Logline.** Victoria accepts a deeper commitment from a man she genuinely wants to be faithful to, knowing she has already cheated with Clement and perhaps others.
+**Logline.** Victoria accepts a greater commitment from the possessive man she genuinely loves, then deliberately uses his suspicion of infidelity to hurt him, though she wants nothing more than to be faithful.
 
 **Beats**
 
-1. In her boyfriend's kitchen, Victoria is happy to be there. The familiar rituals of their relationship are things she wants, not things she endures. He proposes an ordinary next step — a key to his place, a family introduction, or another concrete gesture of trust `[OPEN: which]`.
-2. He makes a possessive or judgmental remark `[OPEN: the exact behavior, and whether this is a possessive boyfriend or a more detached Hugo]`. She dislikes it, but also reads his conventional certainty as the stability she sometimes wishes she had. She is genuinely attached to him, not merely attached to the idea of being normal.
-3. The question of fidelity surfaces in a mundane way. They are already exclusive. **She wants that exclusivity and wants to honor it.** Her shame comes from having broken an agreement she herself values, not from wanting sex.
-4. Something unimportant evokes the alley `[OPEN: trigger]`. She remembers Clement, without needing his name or giving their encounter special destiny. The reader recognizes that she was his anonymous partner. Whether there have been other betrayals is deliberately not specified.
-5. She could admit the cheating or retreat from the commitment. Instead, she accepts his offered next step and chooses not to tell him now. Her intention to be faithful from here is sincere; so is the concealment.
-6. End on the ordinary action that makes the choice real: taking the key, agreeing to the visit, or making the plan. No hint about whether she will keep her promise.
+1. In her boyfriend's kitchen, they are doing something ordinary together. She loves this version of them, and wants a shared life with him. He offers a concrete next step — a key, an introduction, a plan `[OPEN: which]`. She wants to say yes.
+2. The offer comes with a condition. He questions where she has been or whom she spends time with, implying he is entitled to know. His possessiveness is not romanticized. She resents the interrogation, even as she wants the exclusivity both of them claim to value.
+3. The question brings back an unremarkable detail from the alley with Clement `[OPEN: trigger]`. The reader recognizes her from G010. She has cheated on this man with Clement, possibly others. **She regrets betraying their agreement and genuinely wants to stop.**
+4. She could quiet his suspicion. Instead she leaves just enough unsaid to make him imagine a rival, watching how it unsettles him. It starts as retaliation for being controlled, then she recognizes that she *likes* having this power over him. His jealousy is a vulnerability she chooses to exploit.
+5. He lashes back with another controlling demand `[OPEN: exact words/action]`. She feels wounded, guilty, angry and briefly triumphant. Neither is simply the other's victim. She knows she caused some of his pain intentionally, without believing his possessiveness is justified.
+6. When the fight subsides she accepts the step toward commitment. She promises to be faithful and means it. She still withholds the truth about Clement, and she has not repaired the cruelty of the exchange. End with the ordinary action that makes the commitment real, not an omen of her next betrayal.
 
 **Notes**
 
-- **First Victoria POV.** The identification happens relatively soon after G010, with intervening material, not as the immediate next scene and not as a prolonged mystery. Its placement remains open.
-- **Central contradiction:** she genuinely wants a monogamous relationship **with this man**, and genuinely wants to be monogamous, yet cheats. Fidelity is a chosen value she struggles to live by, not a convention she only pretends to want.
-- **Clement is one betrayal, not necessarily the only one.** She may have cheated with others, but don't invent a count, pattern, or chronology yet.
-- Her boyfriend is genuinely desirable to her and may be somewhat possessive or a douchebag. **His identity is undecided**, including the Hugo possibility; do not decide that here. If he is Hugo, the late Hugo/Victoria connection in `reveal-order.md` imposes a separate reader-order constraint. Do not reveal or imply that connection early.
-- The scene concerns her own decision and its cost, not a moral verdict on sexuality. Her high sexual appetite predates B2BI; the Field does not create her impulses. She bears responsibility for lying or breaking an agreement without being pathologized for desire.
-- **Future evolution stays open.** She could later demand exclusive loyalty while seeking freedom herself, prefer an open relationship, explore polyamory, choose monogamy again, or something else. None of those outcomes is fixed here.
-- Clement's interior is off-limits in Victoria POV. Whether their encounter sensitized him to the Field also remains `[OPEN]`.
+- **First Victoria POV.** G003 discloses that she is Clement's unnamed partner relatively soon after G010, with intervening material, never as an instant sequel or a long mystery. Exact placement stays open.
+- **Two distinct motives, neither a complete excuse.** Her sexual impulses contribute to cheating; her desire to retaliate and dominate can make her *weaponize* a boyfriend's knowledge or suspicion of cheating afterward. She may genuinely hate the betrayal and enjoy the hurt she can cause at the same time.
+- **She wants monogamy at this stage.** She wants him to be faithful and genuinely intends to be faithful herself. Do not retroactively treat the promise as mere performance or imply she secretly prefers an open relationship already.
+- **The relationship is mutually toxic.** He is possessive and controlling. She can be deceitful and deliberately cruel. Her guilt about violating an agreement is legitimate; neither partner's conduct excuses the other's.
+- **Clement is one betrayal, not necessarily the only one.** Other partners, the number of affairs, and the exact chronology remain open. The reader's recognition should be incidental to the scene's power struggle.
+- **The boyfriend's identity remains open.** A possessive boyfriend is distinct from the detached Hugo characterization currently imagined; making him Hugo would require an explicit choice and respecting the late Victoria/Hugo revelation in `reveal-order.md`.
+- **Future relationship models remain open.** She may later seek asymmetrical exclusivity, consensual nonmonogamy, polyamory, or monogamy again. None is chosen here.
+- Victoria's sexuality is agentic and predates B2BI. Do not pathologize desire or excuse deliberate manipulation. Clement's interior is off-limits in her POV. Whether sex with her primed him remains `[OPEN]`.
