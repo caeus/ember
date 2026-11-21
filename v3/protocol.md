@@ -20,6 +20,7 @@ v3/
 ├── ancestors.md        pre-reset genetic material (not canon)
 ├── ledger.md           generation log + scores
 ├── 0-pool/             SUGGESTED — freshly generated, unscored
+├── stashed/            PAUSED — unscored pool genomes held out of circulation
 ├── 1-kept/             SURVIVED — scored well enough to breed from
 ├── 2-developed/        LOAD-BEARING — expanded, placed in chronology
 ├── 3-spine/            COMMITTED — drafted prose, part of the book
@@ -36,6 +37,9 @@ v3/
   in it — it stops the same idea being regenerated in three variants next round.
 - Promotion **does not** rewrite the genome. Beats stay beats until `3-spine`, where a
   `draft.md` joins the genome file in a folder of its own.
+- `stashed/` is **not** a tier or a verdict. Files there retain `status: pool` and remain
+  unscored; they are simply outside active circulation until the user restores them.
+  Do not treat stashing as rejection or promotion.
 
 ---
 
@@ -140,6 +144,7 @@ generation.
 | tag | advances |
 |---|---|
 | `WB` | worldbuilding |
+| `INST` | institutional or societal response |
 | `CHAR` | character development |
 | `REL` | relationship |
 | `PLOT` | causal / plot movement |
@@ -176,7 +181,7 @@ One file per genome. Filename `G###-slug.md`. The ID never changes as the genome
 ```markdown
 ---
 id: G001
-title: Hugo at the Bedside
+title: The Same Hour
 pov: <character, and their relation to the case>
 when: <position in chronology, relative — not a date>
 advances: [MYSTERY, CHAR]

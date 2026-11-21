@@ -29,8 +29,8 @@ needs: ["who the related sleeper is"]
    that the loss he registers first is *rhetorical*.
 6. His first impulse is something small, practical and damning `[OPEN: what — checking the
    notebook before going to them is the obvious candidate and may be too obvious]`.
-7. He goes to them. End in the ward, him sitting down — **in the chair where, in G001, a
-   sister sat.** Not stated. Just the same chair.
+7. He goes to them. End in the ward, sitting down beside the person he had stopped
+   considering at risk. No sudden confession, and no forced link to G001's unrelated family.
 
 **Notes**
 

@@ -34,8 +34,8 @@ and it is the best thing that has ever happened to him.
    things he believes are both true and cannot both be true, and he is far too happy to
    notice he has a problem.
 6. She leaves without ceremony and **without a name.** He doesn't ask — asking isn't in his
-   script, and by the time he thinks of it she's gone. `[The missing name is the whole
-   plot. It must cost him nothing in the moment.]`
+   script, and by the time he thinks of it she's gone. He will need a name to find her;
+   the reader doesn't need to be kept guessing about it.
 7. Afterwards: the reinterpretation. He does not conclude *I was wrong about women.* He
    concludes **he was right all along and has finally been recognized** — the world
    corrected itself, late, in his favour. The resentment survives intact and is now
@@ -45,13 +45,13 @@ and it is the best thing that has ever happened to him.
 
 **Notes**
 
-- **She is Victoria. The reader must not know.** No tell, no echo of a Victoria scene, no
-  physical detail the reader has been given elsewhere, no turn of phrase she has used
-  before. This scene has to survive being reread after the reveal, which means it can carry
-  nothing that only works before it.
+- **She is Victoria.** G010 follows Clement's knowledge, so he never names her; G003
+  immediately follows from Victoria's POV and names her plainly. No extended identity
+  mystery, artificial concealment of distinctive details, or surprise-reveal payoff.
 - **This starts the hunt.** His life reorganizes around finding a woman whose name he
-  doesn't have, who turns out to be near the centre of everything. The hunt is a sequence
-  of scenes, not one — see the backlog.
+  doesn't have. The reader knows whom he seeks; tension comes from his interpretations,
+  decisions and their costs, not the answer to "who was she?" The hunt remains a sequence
+  of scenes — see the backlog.
 - **The worldview is stressed, not refuted** (canon §4). Beat 7 is the point: the encounter
   should have broken his model and instead it *fed* it. The breaking comes much later and
   costs much more. Any version where he softens here is wrong.
@@ -62,13 +62,3 @@ and it is the best thing that has ever happened to him.
   of whatever Clement later becomes, and the scene is carrying far more than it appears to.
   Nothing in the writing should hint either way.
 
-**Collision — needs resolving.** `G003` is this encounter's aftermath from **Victoria's**
-POV, which would hand the reader her identity immediately and destroy the concealment. Three
-ways out:
-
-1. **G003 moves much later** — becomes the reveal. The alley told twice, his version first,
-   hers after the reader has spent the book with the hunt. Strongest, and expensive: it
-   means G003's "strange certainty" beat happens in the alley, which changes it.
-2. **G003 becomes a different, later encounter** — after he finds her again. Keeps both
-   scenes; costs the alley its uniqueness.
-3. **G003 retires.** Its content folds into this scene and its reveal-side twin.
