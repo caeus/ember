@@ -46,9 +46,9 @@ report that reaches him later is about other people.
   with *theirs*, because he was already watching that bed. His guilt is downstream of his
   attention being personal. `[Worth considering: he is the only person in the world with
   both halves of the correlation, and he got them by accident.]`
-- **Pairs with G001.** There, a caretaker gives a stranger everything because answering is
-  the only useful thing left to her. Here, that stranger is doing this with what she gave
-  him. Reading them in either order should damage both.
+- **Contrasts with G001.** An independent researcher can notice that cases share
+  onset times without knowing the cause. Hugo has a private apparatus and a personal
+  reason to watch one sleeper, yet interprets the second run around that one person.
 - POV discipline: no theory (canon §7). He concludes *coincidence*, which is a verdict, not
   a model.
 - `[OPEN — the chronology this scene depends on]` Whether the related sleeper is under or
