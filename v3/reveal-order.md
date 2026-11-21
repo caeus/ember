@@ -31,6 +31,9 @@ there are two causes; after, and Hugo's reveal gets to feel total before G005 un
 
 ## Rules this ordering imposes
 
+- **Clement's unnamed woman is Victoria.** This is disclosed to the reader immediately
+  after G010 by Victoria's POV in G003. Only Clement lacks her name. It is not a
+  prolonged reveal or part of row 9, which concerns Victoria's link to **Hugo**.
 - **Nothing may let the reader connect Victoria's thread to Hugo's before row 9.** No
   shared acquaintance, no near-miss, no corridor irony. See G005.
 - A reveal recontextualizes only material the reader has already *lived through*. Each row
