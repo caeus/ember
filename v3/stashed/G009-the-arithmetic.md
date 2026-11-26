@@ -7,6 +7,13 @@ advances: [CHAR, PLOT, REL]
 status: pool
 parents: [G007]
 needs: ["who the related sleeper is"]
+cycle:
+  shape: sequel
+  sequel:
+    reaction: "The news and matching timestamps destroy his excuse after the person close to him goes under again."
+    dilemma: null
+    decision: null
+  note: "Reaction to an earlier run; visiting the ward is shown, but the scaffold explicitly withholds a decision about future runs."
 ---
 
 **Logline.** Hugo had stopped checking on them, because they'd been spared once.

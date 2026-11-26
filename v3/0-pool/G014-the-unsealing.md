@@ -7,6 +7,17 @@ advances: [REL, CHAR, MYSTERY]
 status: pool
 parents: [E004]
 needs: ["whether a native entity can be held or released through a human bond"]
+cycle:
+  shape: mixed
+  scene:
+    goal: "Help the presence she interprets as imprisoned."
+    conflict: "Near opposes release for reasons she cannot understand."
+    consequence: "The felt constraint gives way and Near thins."
+  sequel:
+    reaction: "Interprets the refusal as cruelty; pays a relational cost without knowing whether she was right."
+    dilemma: "Defer to Near or respond to the plea."
+    decision: "Yield attention to the apparent captive."
+  note: "Decision precedes the action's consequence; no next goal or confirmed danger."
 ---
 
 **Logline.** Imogen takes the side of something that feels imprisoned, despite Near's refusal, and pays for the choice before knowing if it was right.

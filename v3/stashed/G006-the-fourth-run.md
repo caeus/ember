@@ -7,6 +7,17 @@ advances: [CHAR, PLOT, MYSTERY]
 status: pool
 parents: [G004]
 needs: ["Hugo's mundane experimental domain (canon §4)", "a name for the events (see Notes)"]
+cycle:
+  shape: mixed
+  scene:
+    goal: "Recover missing experimental information by varying a parameter."
+    conflict: "The first accidental run was poorly recorded, so he cannot rule himself out."
+    consequence: "The fourth run begins; external outcome withheld."
+  sequel:
+    reaction: "Treats responsibility and method as reasons to continue."
+    dilemma: "Stop or run again; the deeper reason for continuing is open."
+    decision: "Start the fourth run with one parameter varied."
+  note: "Earlier runs supply the input consequence; procedural execution follows the decision."
 ---
 
 **Logline.** Hugo sets up the fourth run with a checklist, varies one parameter because

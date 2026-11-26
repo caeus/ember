@@ -7,6 +7,17 @@ advances: [CHAR, REL, MYSTERY]
 status: pool
 parents: [E007]
 needs: ["whether the second source is recruited, coerced, or affected by the Field"]
+cycle:
+  shape: mixed
+  scene:
+    goal: "Prevent her partner publishing the dossier."
+    conflict: "He remains unmoved by her distress and the risk of prison."
+    consequence: "He publishes despite her offer to destroy the draft."
+  sequel:
+    reaction: "Frightened by his composure; relieved and ashamed afterward."
+    dilemma: "Report him or leave without reporting him."
+    decision: "Leave without reporting him."
+  note: "No subsequent goal; the source's mechanism remains open."
 ---
 
 **Logline.** A partner finds the next devastating corruption dossier in the hands of someone who seems unable to care that it will ruin their life.

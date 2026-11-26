@@ -7,6 +7,17 @@ advances: [PLOT, MYSTERY, WB]
 status: pool
 parents: [E007]
 needs: ["political jurisdiction and the allegations' factual scope"]
+cycle:
+  shape: mixed
+  scene:
+    goal: "Understand the detained whistleblower and account for the leaks."
+    conflict: "Detainee offers no motive; another dossier appears despite isolation."
+    consequence: "Detention fails to account for the continuing campaign."
+  sequel:
+    reaction: "Must make sense of the contradiction; no explicit emotional reaction."
+    dilemma: "Proceed without an explanation or adopt a workable category."
+    decision: "Record organized network as a working classification to continue investigating."
+  note: "The classification is provisional, not confirmation of a network."
 ---
 
 **Logline.** An investigator arrests the whistleblower threatening the presidency, only to watch the same campaign continue while the detainee is isolated.

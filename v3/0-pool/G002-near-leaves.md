@@ -7,6 +7,17 @@ advances: [CHAR, REL, WB]
 status: pool
 parents: [candidate-2]
 needs: []
+cycle:
+  shape: mixed
+  scene:
+    goal: "Recover the comfort of Near."
+    conflict: "Remembering Near produces an empty rendering; the remaining presences are unaddressed to her."
+    consequence: "Near's comfort cannot be recovered by remembering."
+  sequel:
+    reaction: "Loneliness becomes worse than being watched."
+    dilemma: "Remain alone or accept Witness's attention."
+    decision: "Turn toward Witness; accept a different bond."
+  note: "The decision is also the relational consequence; no later goal is supplied."
 ---
 
 **Logline.** Near thins out, and Imogen chooses being watched over being alone — a real

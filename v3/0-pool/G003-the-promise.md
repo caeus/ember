@@ -7,6 +7,17 @@ advances: [CHAR, REL, PLOT]
 status: pool
 parents: [candidate-3, G010]
 needs: ["identity of Victoria's boyfriend; if Hugo, how to preserve reveal row 9"]
+cycle:
+  shape: mixed
+  scene:
+    goal: "Accept greater commitment and a faithful shared life."
+    conflict: "His possessiveness conflicts with her desire for fidelity and autonomy; she retaliates by exploiting jealousy."
+    consequence: "A mutually damaging confrontation leaves the betrayal undisclosed."
+  sequel:
+    reaction: "Wounded, guilty, angry and briefly triumphant."
+    dilemma: "Commit sincerely despite unresolved cruelty and concealed betrayal, or refuse the commitment."
+    decision: "Accept the commitment and promise fidelity."
+  note: "Her promise is an intention, not evidence that she keeps it."
 ---
 
 **Logline.** Victoria accepts a greater commitment from the possessive man she genuinely loves, then deliberately uses his suspicion of infidelity to hurt him, though she wants nothing more than to be faithful.

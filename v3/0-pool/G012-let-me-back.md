@@ -7,6 +7,17 @@ advances: [CHAR, REL, PLOT]
 status: pool
 parents: [E002]
 needs: []
+cycle:
+  shape: mixed
+  scene:
+    goal: "Return to the sleep."
+    conflict: "Doctor cannot offer reentry; husband wants their former life back."
+    consequence: "She leaves rehabilitation without a way back."
+  sequel:
+    reaction: "Experiences waking life as loss; feels shame at the family's relief."
+    dilemma: "Return home or leave to pursue reentry."
+    decision: "Sign herself out, refuse the ride and search for a source."
+  note: "Next goal is to find someone who can return her; no reentry method established."
 ---
 
 **Logline.** A recovered sleeper refuses the life her family welcomes her back into and walks away to find whoever could return her to the sleep.

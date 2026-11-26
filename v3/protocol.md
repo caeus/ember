@@ -174,6 +174,52 @@ Carried from `canon.md`, repeated because they are the ones most easily broken:
 
 ---
 
+## Iterative narrative model (Scene / Sequel)
+
+A generative lens adapted from Dwight V. Swain's *Techniques of the Selling Writer*:
+
+```typescript
+scene(world, character, goal): Consequence
+sequel(character, consequence): Goal
+```
+
+- **Scene:** goal -> conflict -> consequence. A character acts against resistance;
+  the outcome changes their circumstances. Resistance need not be a person, and
+  the consequence need not be a disaster.
+- **Sequel:** reaction -> dilemma -> decision. A character processes a consequence,
+  interprets it (possibly incorrectly), and may form or revise a goal.
+
+A consequence can feed the same character's sequel or another character's scene or
+sequel through the shared world. Several characters can run these loops concurrently;
+one character's decision can supply another's resistance. This is our extension of
+Swain's model, not a rule that every plot must follow.
+
+Use the model to generate possible next scenes from existing consequences and
+intentions, or to identify the missing inputs/outputs of a thread. Do not prescribe
+the next goal where the genome does not show one. A decision can also be the
+consequence of the same physical scene; the two functions are conceptual, not
+separate assets or a mandatory alternation of scenes.
+
+Every genome declares a `cycle` annotation in its front matter:
+
+- `shape: scene` for predominantly external action and consequence.
+- `shape: sequel` for predominantly processing an incoming consequence.
+- `shape: mixed` when both functions are present, including partial functions or
+  a decision preceding the external action.
+- `shape: outside` when neither is useful (e.g. an ordinary encounter carrying
+  retrospective reader-side meaning).
+
+Include the applicable `scene` and/or `sequel` maps, with a short phrase per
+stage. Use `null` for an absent or unestablished stage rather than inventing it;
+omit the map for an absent function. `note` can explain partial alignment,
+withheld consequences, reader/character knowledge differences, or open links.
+These annotations describe the existing beats, not instructions to rewrite them.
+They are not scores, canon, reveal-order commitments or requirements that every
+genome have a goal, conflict, disaster or decision. Keep the one-scene, one-POV
+rule and all canon guardrails. The user's fitness function remains authoritative.
+
+---
+
 ## Genome file format
 
 One file per genome. Filename `G###-slug.md`. The ID never changes as the genome moves up.
@@ -188,6 +234,13 @@ advances: [MYSTERY, CHAR]
 status: pool | kept | developed | spine | graveyard
 parents: []          # genome IDs this was mutated from, or the backlog line it came from
 needs: []            # [OPEN] canon points this genome would force closed
+cycle:
+  shape: scene
+  scene:
+    goal: <existing goal, or null>
+    conflict: <existing resistance, or null>
+    consequence: <existing outcome, or null>
+  note: <optional qualification>
 ---
 
 **Logline.** One sentence.

@@ -7,6 +7,17 @@ advances: [MYSTERY, CHAR, WB]
 status: pool
 parents: []
 needs: []
+cycle:
+  shape: mixed
+  scene:
+    goal: null
+    conflict: "Imperfect memory and uncertain clocks frustrate an explanation."
+    consequence: "She contributes useful testimony, but the timing leaves her brother's selection unexplained."
+  sequel:
+    reaction: "Feels useful, then returns to the question of why he was taken and she was spared."
+    dilemma: null
+    decision: null
+  note: "Externally initiated interview; no explicit goal or onward decision."
 ---
 
 **Logline.** A sister answers an investigator's unusually precise questions about when her brother became unresponsive, and learns that the timing which makes his case interesting cannot explain why she was spared.

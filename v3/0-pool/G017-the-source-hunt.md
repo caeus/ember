@@ -7,6 +7,17 @@ advances: [CHAR, PLOT, WB]
 status: pool
 parents: [E006, E005]
 needs: ["whether fatal sleeper cases occurred", "what identifying traces the leaked blueprints contain"]
+cycle:
+  shape: mixed
+  scene:
+    goal: "Identify and expose the person she believes responsible for her brother's death."
+    conflict: "Journalist disputes her weak attribution."
+    consequence: "She posts the name and workplace; angry responses begin."
+  sequel:
+    reaction: "Hears the warning as a demand to accept uncertainty; afterward mistakes relief for certainty."
+    dilemma: "Heed the warning or make the accusation herself."
+    decision: "Publish the accusation despite the warning."
+  note: "No subsequent goal or correct attribution is established."
 ---
 
 **Logline.** A bereaved sister mistakes a technical clue in leaked blueprints for the identity of the culprit, and makes an accusation she cannot retract.

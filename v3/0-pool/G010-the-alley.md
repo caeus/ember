@@ -7,6 +7,17 @@ advances: [CHAR, REL, PLOT]
 status: pool
 parents: []          # user-supplied, out of band
 needs: []
+cycle:
+  shape: mixed
+  scene:
+    goal: null
+    conflict: "The encounter contradicts Clement's taxonomy and his expectations."
+    consequence: "The woman leaves unnamed; he wants her despite his categories."
+  sequel:
+    reaction: "Overwhelmed; reinterprets the encounter as recognition rather than refutation of his worldview."
+    dilemma: "His desire conflicts with his classification of her; no explicit conscious dilemma."
+    decision: "Begins trying to find her, without her name."
+  note: "Incoming encounter is not a goal-driven action by Clement; the hunt is an output."
 ---
 
 **Logline.** A woman Clement has already filed under *worthless* takes him into an alley,

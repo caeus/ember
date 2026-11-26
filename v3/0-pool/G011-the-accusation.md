@@ -7,6 +7,17 @@ advances: [CHAR, REL, PLOT]
 status: pool
 parents: [E001]
 needs: ["journalist's identity and relationship terms; no confirmed cause of his change"]
+cycle:
+  shape: mixed
+  scene:
+    goal: "Publicly name the person she blames."
+    conflict: "Unexplained changes in her partner and an opportunity to speak privately instead."
+    consequence: "She names Victoria publicly; her partner's silence reinforces her certainty."
+  sequel:
+    reaction: "Feels betrayed and treats the affair's timing as proof."
+    dilemma: "Speak privately or accuse publicly."
+    decision: "Take the microphone and name Victoria."
+  note: "Sequel to perceived betrayal generates public action; no causal proof or later goal."
 ---
 
 **Logline.** The spouse of a prominent journalist blames Victoria for the change in him, and makes the accusation public rather than face what she cannot explain.

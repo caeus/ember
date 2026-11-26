@@ -7,6 +7,13 @@ advances: [PLOT, CHAR, MYSTERY]
 status: pool
 parents: []          # user-supplied, out of band
 needs: []
+cycle:
+  shape: scene
+  scene:
+    goal: "Clear the flat by the vacate deadline."
+    conflict: "The deadline and exhaustion constrain packing; no antagonist is needed."
+    consequence: "He unplugs and packs the units, ending the original event without knowing it."
+  note: "Character consequence and reader recognition diverge; no new intention about the event is shown."
 ---
 
 **Logline.** Hugo clears the flat ahead of a deadline, is briefly pleased that the units are

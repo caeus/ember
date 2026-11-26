@@ -7,6 +7,17 @@ advances: [CHAR, PLOT]
 status: pool
 parents: [E005]
 needs: ["whether and how Hugo's experiments caused deaths", "the mundane domain and what the operational blueprints actually contain"]
+cycle:
+  shape: mixed
+  scene:
+    goal: "Disclose operational instructions without identifying himself."
+    conflict: "Guilt and fear of being exposed constrain what he can publish."
+    consequence: "The archive becomes publicly available, irreversibly."
+  sequel:
+    reaction: "Feels guilt after a reported death."
+    dilemma: "Reveal his responsibility, remain silent, or disclose anonymously (only the anonymous choice is enacted)."
+    decision: "Remove identifying admissions and publish anonymously."
+  note: "Sequel to the report generates the publishing scene; deaths and downstream replication remain unconfirmed."
 ---
 
 **Logline.** Hugo releases the instructions for his experiments anonymously, hoping disclosure will relieve guilt he cannot confess.
