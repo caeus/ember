@@ -12,12 +12,12 @@ cycle:
   scene:
     goal: "Intervene against the harassment."
     conflict: "Friends' conduct and pressure to save face oppose his intervention."
-    consequence: "He doubles down; a clip is uploaded before he can explain himself."
+    disaster: "Yes, but: he stands his ground and a recording is published before he can control how his conduct is interpreted."
   sequel:
     reaction: "Anger and discomfort at how the public action frames him."
-    dilemma: "Retreat or stand his ground; afterward, deny the clip's interpretation or not."
+    dilemma: "Retreat or stand his ground; later, send a denial or leave it unsent."
     decision: "Stands his ground; drafts a denial but cannot send it."
-  note: "No subsequent goal or public backlash is shown."
+  note: "No subsequent goal or public backlash is shown. The publication, not the mere existence of a recording, removes his control."
 ---
 
 **Logline.** Clement intervenes when his friends harass a woman; the recording captures a hero he refuses to believe he is.

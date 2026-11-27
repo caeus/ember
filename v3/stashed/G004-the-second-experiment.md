@@ -12,13 +12,13 @@ cycle:
   shape: mixed
   scene:
     goal: "Get a null result and put the suspected connection to rest."
-    conflict: "Disproportionate preparation and the waiting expose his wish to matter."
-    consequence: "He starts and sustains the run; its external result is withheld."
+    conflict: "Disproportionate preparation and waiting expose his wish for the connection to be real."
+    disaster: null
   sequel:
-    reaction: "Recognizes that he would rather be guilty than insignificant."
-    dilemma: "Stop the run or let it continue despite that recognition."
-    decision: "Let it run; choose when to check the news."
-  note: "The experiment's consequence in strangers' lives belongs elsewhere."
+    reaction: "Recognizes that a null result would make him feel insignificant and that he would rather be guilty."
+    dilemma: "Stop the run or sustain it despite that recognition."
+    decision: "Let the run continue and choose when to check the news."
+  note: "The run's result is deliberately withheld; the conflicting motives are not proof that the stated goal has failed."
 ---
 
 **Logline.** Hugo sets up another run to confirm the coincidence he has already decided

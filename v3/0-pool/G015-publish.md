@@ -11,13 +11,13 @@ cycle:
   shape: mixed
   scene:
     goal: "Disclose operational instructions without identifying himself."
-    conflict: "Guilt and fear of being exposed constrain what he can publish."
-    consequence: "The archive becomes publicly available, irreversibly."
+    conflict: "Guilt and fear of exposure constrain what he can publish."
+    disaster: null
   sequel:
     reaction: "Feels guilt after a reported death."
-    dilemma: "Reveal his responsibility, remain silent, or disclose anonymously (only the anonymous choice is enacted)."
+    dilemma: "Disclose his responsibility or remove the identifying admissions; he cannot bear to sign his name."
     decision: "Remove identifying admissions and publish anonymously."
-  note: "Sequel to the report generates the publishing scene; deaths and downstream replication remain unconfirmed."
+  note: "The archive becomes publicly available, as intended. Future misuse is a risk, not a demonstrated disaster in this scene. The reported death is incoming pressure, not confirmed causation."
 ---
 
 **Logline.** Hugo releases the instructions for his experiments anonymously, hoping disclosure will relieve guilt he cannot confess.

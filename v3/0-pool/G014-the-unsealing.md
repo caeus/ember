@@ -12,12 +12,12 @@ cycle:
   scene:
     goal: "Help the presence she interprets as imprisoned."
     conflict: "Near opposes release for reasons she cannot understand."
-    consequence: "The felt constraint gives way and Near thins."
+    disaster: "Yes, but: the apparent captive is released at the cost of Near's withdrawal, with no way to undo the choice."
   sequel:
-    reaction: "Interprets the refusal as cruelty; pays a relational cost without knowing whether she was right."
+    reaction: "Interprets Near's refusal as cruelty; pays a relational cost without knowing whether she was right."
     dilemma: "Defer to Near or respond to the plea."
     decision: "Yield attention to the apparent captive."
-  note: "Decision precedes the action's consequence; no next goal or confirmed danger."
+  note: "The dilemma and decision precede the action's disaster. No subsequent goal or confirmed danger is shown."
 ---
 
 **Logline.** Imogen takes the side of something that feels imprisoned, despite Near's refusal, and pays for the choice before knowing if it was right.

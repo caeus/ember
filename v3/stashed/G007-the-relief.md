@@ -8,16 +8,16 @@ status: pool
 parents: []          # user-supplied, out of band
 needs: ["who the related sleeper is", "whether the related sleeper is awake at this point"]
 cycle:
-  shape: mixed
+  shape: scene
   scene:
-    goal: "Test whether the person he watches is affected by another run."
+    goal: "Test the suspected connection by watching whether the person close to him is affected."
     conflict: "His fear and one-person sample narrow what he can observe."
-    consequence: "The watched person is unaffected; reports concern others."
+    disaster: null
   sequel:
-    reaction: "Genuine relief."
-    dilemma: "No explicit dilemma after the result."
-    decision: "Interprets the result as coincidence; no new goal is dramatized."
-  note: "The interpretation is a false update to his model, not a discovery or a confirmed chronology."
+    reaction: "Genuine relief when the watched person is unaffected."
+    dilemma: null
+    decision: "Interprets the result as coincidence; no new course of action is stated."
+  note: "The watched person is unaffected, which supports the answer he wants. Other cases are not a recognized setback to him. This is dramatic irony, not a POV disaster; the mistaken conclusion sets up G009."
 ---
 
 **Logline.** Hugo runs it a second time, watches one person, and is happy — while the

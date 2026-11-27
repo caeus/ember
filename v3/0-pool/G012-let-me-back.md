@@ -11,13 +11,13 @@ cycle:
   shape: mixed
   scene:
     goal: "Return to the sleep."
-    conflict: "Doctor cannot offer reentry; husband wants their former life back."
-    consequence: "She leaves rehabilitation without a way back."
+    conflict: "The doctor cannot offer reentry; her husband wants their former life back."
+    disaster: "She has no route back through the people or institution offering recovery."
   sequel:
     reaction: "Experiences waking life as loss; feels shame at the family's relief."
-    dilemma: "Return home or leave to pursue reentry."
+    dilemma: "Return home and accept recovery or leave to pursue reentry."
     decision: "Sign herself out, refuse the ride and search for a source."
-  note: "Next goal is to find someone who can return her; no reentry method established."
+  note: "Next goal: find someone who can return her. No actual reentry method is established."
 ---
 
 **Logline.** A recovered sleeper refuses the life her family welcomes her back into and walks away to find whoever could return her to the sleep.

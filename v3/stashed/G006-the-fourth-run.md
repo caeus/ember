@@ -11,13 +11,13 @@ cycle:
   shape: mixed
   scene:
     goal: "Recover missing experimental information by varying a parameter."
-    conflict: "The first accidental run was poorly recorded, so he cannot rule himself out."
-    consequence: "The fourth run begins; external outcome withheld."
+    conflict: "The first accidental run was poorly recorded, so he cannot reproduce its conditions or rule himself out."
+    disaster: null
   sequel:
-    reaction: "Treats responsibility and method as reasons to continue."
+    reaction: "Recasts continuing as method and responsibility."
     dilemma: "Stop or run again; the deeper reason for continuing is open."
     decision: "Start the fourth run with one parameter varied."
-  note: "Earlier runs supply the input consequence; procedural execution follows the decision."
+  note: "The missing data from the first run are an incoming obstacle. The fourth run begins here, but its outcome belongs elsewhere."
 ---
 
 **Logline.** Hugo sets up the fourth run with a checklist, varies one parameter because

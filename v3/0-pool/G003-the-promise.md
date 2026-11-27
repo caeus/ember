@@ -10,14 +10,14 @@ needs: ["identity of Victoria's boyfriend; if Hugo, how to preserve reveal row 9
 cycle:
   shape: mixed
   scene:
-    goal: "Accept greater commitment and a faithful shared life."
-    conflict: "His possessiveness conflicts with her desire for fidelity and autonomy; she retaliates by exploiting jealousy."
-    consequence: "A mutually damaging confrontation leaves the betrayal undisclosed."
+    goal: "Accept greater commitment and build a faithful shared life."
+    conflict: "His possessiveness conflicts with her autonomy; she retaliates by exploiting his jealousy."
+    disaster: "Yes, but: she accepts the commitment after mutually damaging cruelty, with the betrayal still concealed."
   sequel:
     reaction: "Wounded, guilty, angry and briefly triumphant."
-    dilemma: "Commit sincerely despite unresolved cruelty and concealed betrayal, or refuse the commitment."
+    dilemma: "She wants the commitment while resenting his control and knowing she has hurt him; refusal is not explicitly considered."
     decision: "Accept the commitment and promise fidelity."
-  note: "Her promise is an intention, not evidence that she keeps it."
+  note: "Her promise establishes fidelity as an intention, not a guarantee. The decision and adverse outcome are intertwined."
 ---
 
 **Logline.** Victoria accepts a greater commitment from the possessive man she genuinely loves, then deliberately uses his suspicion of infidelity to hurt him, though she wants nothing more than to be faithful.

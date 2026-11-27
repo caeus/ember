@@ -12,7 +12,7 @@ cycle:
   scene:
     goal: "Prevent her partner publishing the dossier."
     conflict: "He remains unmoved by her distress and the risk of prison."
-    consequence: "He publishes despite her offer to destroy the draft."
+    disaster: "He publishes despite her plea and offer to destroy the draft."
   sequel:
     reaction: "Frightened by his composure; relieved and ashamed afterward."
     dilemma: "Report him or leave without reporting him."

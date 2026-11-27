@@ -11,9 +11,9 @@ cycle:
   shape: scene
   scene:
     goal: "Clear the flat by the vacate deadline."
-    conflict: "The deadline and exhaustion constrain packing; no antagonist is needed."
-    consequence: "He unplugs and packs the units, ending the original event without knowing it."
-  note: "Character consequence and reader recognition diverge; no new intention about the event is shown."
+    conflict: "The deadline and exhaustion constrain packing."
+    disaster: null
+  note: "He clears the flat, unplugs and packs the units, ending the original event without knowing it. No setback to his logistical goal is shown."
 ---
 
 **Logline.** Hugo clears the flat ahead of a deadline, is briefly pleased that the units are

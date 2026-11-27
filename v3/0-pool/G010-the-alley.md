@@ -10,14 +10,14 @@ needs: []
 cycle:
   shape: mixed
   scene:
-    goal: null
-    conflict: "The encounter contradicts Clement's taxonomy and his expectations."
-    consequence: "The woman leaves unnamed; he wants her despite his categories."
+    goal: "Be with this particular woman (desire emerges during the encounter)."
+    conflict: "His desire contradicts his own taxonomy; asking her name is outside his script."
+    disaster: "Yes, but: the encounter is overwhelming and gratifying, yet she leaves unnamed before he can establish a way to find her."
   sequel:
-    reaction: "Overwhelmed; reinterprets the encounter as recognition rather than refutation of his worldview."
-    dilemma: "His desire conflicts with his classification of her; no explicit conscious dilemma."
-    decision: "Begins trying to find her, without her name."
-  note: "Incoming encounter is not a goal-driven action by Clement; the hunt is an output."
+    reaction: "Reinterprets the encounter as recognition rather than refutation of his worldview."
+    dilemma: null
+    decision: "Begins trying to find her despite not knowing her name."
+  note: "No initial goal to seek her is shown; the encounter generates that desire. The hunt is the next goal, not an already completed action."
 ---
 
 **Logline.** A woman Clement has already filed under *worthless* takes him into an alley,

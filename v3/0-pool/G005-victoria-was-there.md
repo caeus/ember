@@ -10,7 +10,7 @@ parents: []          # user-supplied, out of band
 needs: ["Hugo's mundane experimental domain (canon §4)", "what Victoria and Hugo were to each other"]
 cycle:
   shape: outside
-  note: "Ordinary visit and departure; no dramatized goal, conflict or decision cycle. Reader-side retrospective recontextualization; causal significance remains open."
+  note: "An ordinary visit and departure without a dramatized goal, conflict or disaster. Its function is reader-side retrospective recontextualization; causal significance remains open."
 ---
 
 **Logline.** Victoria spends an unremarkable evening at Hugo's, finds his equipment mildly

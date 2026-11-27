@@ -11,13 +11,13 @@ cycle:
   shape: mixed
   scene:
     goal: "Understand the detained whistleblower and account for the leaks."
-    conflict: "Detainee offers no motive; another dossier appears despite isolation."
-    consequence: "Detention fails to account for the continuing campaign."
+    conflict: "The detainee offers no motive and cannot explain the campaign."
+    disaster: "Another dossier appears despite the suspect's isolation, undermining the apparent solution."
   sequel:
-    reaction: "Must make sense of the contradiction; no explicit emotional reaction."
-    dilemma: "Proceed without an explanation or adopt a workable category."
+    reaction: "Confronts the contradiction; no explicit emotional reaction."
+    dilemma: null
     decision: "Record organized network as a working classification to continue investigating."
-  note: "The classification is provisional, not confirmation of a network."
+  note: "The category is provisional, not proof of a network. The colleague's suggestion is not by itself a dramatized dilemma."
 ---
 
 **Logline.** An investigator arrests the whistleblower threatening the presidency, only to watch the same campaign continue while the detainee is isolated.

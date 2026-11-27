@@ -10,10 +10,10 @@ needs: ["who the related sleeper is"]
 cycle:
   shape: sequel
   sequel:
-    reaction: "The news and matching timestamps destroy his excuse after the person close to him goes under again."
+    reaction: "News that the person close to him has gone under again and matching timestamps destroy his excuse of coincidence."
     dilemma: null
     decision: null
-  note: "Reaction to an earlier run; visiting the ward is shown, but the scaffold explicitly withholds a decision about future runs."
+  note: "Incoming disaster: an earlier run takes the person he thought was spared. He visits the ward, but the scaffold explicitly withholds a decision about future runs; do not manufacture a dilemma or new goal."
 ---
 
 **Logline.** Hugo had stopped checking on them, because they'd been spared once.

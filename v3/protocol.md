@@ -176,47 +176,79 @@ Carried from `canon.md`, repeated because they are the ones most easily broken:
 
 ## Iterative narrative model (Scene / Sequel)
 
-A generative lens adapted from Dwight V. Swain's *Techniques of the Selling Writer*:
+A generative lens adapted from Dwight V. Swain's *Techniques of the Selling Writer*.
+The four typed functions are our abstraction of his six stages, not notation from
+the book.
 
 ```typescript
-scene(world, character, goal): Consequence
-sequel(character, consequence): Goal
+// Scene
+conflict(world: World, character: Character, goal: Goal): Conflict
+disaster(world: World, character: Character, conflict: Conflict): Disaster
+
+// Sequel
+dilemma(character: Character, disaster: Disaster): Dilemma
+decide(character: Character, dilemma: Dilemma): Goal
 ```
 
-- **Scene:** goal -> conflict -> consequence. A character acts against resistance;
-  the outcome changes their circumstances. Resistance need not be a person, and
-  the consequence need not be a disaster.
-- **Sequel:** reaction -> dilemma -> decision. A character processes a consequence,
-  interprets it (possibly incorrectly), and may form or revise a goal.
+**Scene: goal -> conflict -> disaster.**
 
-A consequence can feed the same character's sequel or another character's scene or
-sequel through the shared world. Several characters can run these loops concurrently;
-one character's decision can supply another's resistance. This is our extension of
-Swain's model, not a rule that every plot must follow.
+- **Goal:** the state the character wants to achieve.
+- **Conflict:** resistance to achieving that goal. It can be a person, circumstance,
+  insufficient information, or conflicting commitments.
+- **Disaster:** the unfavorable resolution of that conflict, which frustrates the goal
+  or destabilizes the character's trajectory. It need not be a catastrophe:
+  **no** (failure), **no, and** (failure plus a worsening situation), or **yes, but**
+  (success at a meaningful cost). A generic consequence, a looming risk, or an
+  outcome favorable to the character but troubling to the reader is not necessarily
+  a disaster. Assess the outcome relative to the POV character's actual goal.
 
-Use the model to generate possible next scenes from existing consequences and
-intentions, or to identify the missing inputs/outputs of a thread. Do not prescribe
-the next goal where the genome does not show one. A decision can also be the
-consequence of the same physical scene; the two functions are conceptual, not
-separate assets or a mandatory alternation of scenes.
+**Sequel: reaction -> dilemma -> decision.**
+
+- **Reaction:** the emotional or interpretive response to the disaster; implicit
+  inside the `dilemma` function, explicit in the genome annotation.
+- **Dilemma:** the incompatible alternatives the new situation leaves the character.
+  Conflict challenges their ability to achieve something; dilemma challenges their
+  priorities. An unanswered question alone is not a dilemma.
+- **Decision:** the character commits to a course of action, establishing, revising,
+  or reaffirming the next scene's goal. `decide` returns that goal. A decision and
+  its goal are distinct; don't invent a next goal when the scaffold doesn't supply one.
+
+Conflict obstructs the current goal; disaster creates the need to adapt. The loop
+is generative: use an existing goal to propose resistance, resolve it adversely,
+explore the resulting dilemma, and derive the next goal. A character can interpret
+the situation wrongly. Several characters can run these loops concurrently through
+the shared world; one person's choice can become another's conflict or disaster.
+
+The event-shock mechanism above remains separate and can introduce disruptions not
+derived from an existing goal. Such a disruption may supply the input to a sequel
+or the pressure for a scene; it is not automatically a Swain disaster. Neither
+mechanism commits events to canon.
 
 Every genome declares a `cycle` annotation in its front matter:
 
-- `shape: scene` for predominantly external action and consequence.
-- `shape: sequel` for predominantly processing an incoming consequence.
-- `shape: mixed` when both functions are present, including partial functions or
-  a decision preceding the external action.
+- `shape: scene` for predominantly goal-directed action, even if it is incomplete.
+- `shape: sequel` for predominantly processing an incoming outcome.
+- `shape: mixed` when action and internal processing both substantially drive the
+  beats; a passing emotional response alone does not make a scene mixed.
 - `shape: outside` when neither is useful (e.g. an ordinary encounter carrying
   retrospective reader-side meaning).
 
 Include the applicable `scene` and/or `sequel` maps, with a short phrase per
-stage. Use `null` for an absent or unestablished stage rather than inventing it;
-omit the map for an absent function. `note` can explain partial alignment,
-withheld consequences, reader/character knowledge differences, or open links.
-These annotations describe the existing beats, not instructions to rewrite them.
-They are not scores, canon, reveal-order commitments or requirements that every
-genome have a goal, conflict, disaster or decision. Keep the one-scene, one-POV
-rule and all canon guardrails. The user's fitness function remains authoritative.
+stage. Use `null` for any absent or unestablished stage rather than inventing it;
+omit the map for an absent function. A partial secondary map may document a reaction
+without changing the predominant shape. Use `note` for incoming disasters,
+withheld outcomes, character/reader knowledge differences, or open links. If a
+decision comes before the external action, the maps do not imply a different
+chronological order.
+
+Treat missing disasters and dilemmas as visible opportunities for generation:
+could the conflict end adversely, or could the new situation force a consequential
+choice? Propose alternatives when developing material, not automatic rewrites or
+verdicts. Some scenes deliberately defer their outcome or serve other functions.
+The six stages are not six assets and need not all occur in a single physical scene.
+Keep the one-scene, one-POV rule and all canon guardrails. Annotations are editorial
+analysis, not canon, scores, reveal-order commitments or promotions. The user's
+fitness function remains authoritative.
 
 ---
 
@@ -239,7 +271,7 @@ cycle:
   scene:
     goal: <existing goal, or null>
     conflict: <existing resistance, or null>
-    consequence: <existing outcome, or null>
+    disaster: <unfavorable resolution of the conflict, or null>
   note: <optional qualification>
 ---
 

@@ -11,13 +11,13 @@ cycle:
   shape: mixed
   scene:
     goal: "Publicly name the person she blames."
-    conflict: "Unexplained changes in her partner and an opportunity to speak privately instead."
-    consequence: "She names Victoria publicly; her partner's silence reinforces her certainty."
+    conflict: "She has an opportunity to speak privately instead; the cause of her partner's change remains unexplained."
+    disaster: null
   sequel:
     reaction: "Feels betrayed and treats the affair's timing as proof."
     dilemma: "Speak privately or accuse publicly."
     decision: "Take the microphone and name Victoria."
-  note: "Sequel to perceived betrayal generates public action; no causal proof or later goal."
+  note: "Incoming shock: her partner's change and evidence of the affair. She succeeds in publicly accusing Victoria and his silence reinforces her certainty; the later costs are not dramatized here."
 ---
 
 **Logline.** The spouse of a prominent journalist blames Victoria for the change in him, and makes the accusation public rather than face what she cannot explain.

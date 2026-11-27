@@ -11,13 +11,13 @@ cycle:
   shape: mixed
   scene:
     goal: "Identify and expose the person she believes responsible for her brother's death."
-    conflict: "Journalist disputes her weak attribution."
-    consequence: "She posts the name and workplace; angry responses begin."
+    conflict: "The journalist disputes her weak attribution."
+    disaster: null
   sequel:
-    reaction: "Hears the warning as a demand to accept uncertainty; afterward mistakes relief for certainty."
+    reaction: "Hears the warning as a demand to accept uncertainty; mistakes the relief following publication for certainty."
     dilemma: "Heed the warning or make the accusation herself."
     decision: "Publish the accusation despite the warning."
-  note: "No subsequent goal or correct attribution is established."
+  note: "She succeeds in exposing the suspect and receives angry responses; whether she has identified the true source or harmed an innocent person remains open. No experienced setback is shown."
 ---
 
 **Logline.** A bereaved sister mistakes a technical clue in leaked blueprints for the identity of the culprit, and makes an accusation she cannot retract.
