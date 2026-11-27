@@ -68,10 +68,16 @@ Notes outrank anything the agent previously wrote in the same file. A note on a
 
 ## Event-shock proposals (a separate, nonbinding layer)
 
-When the user asks what could happen next or later, propose **12 short candidate canonical
-events** before generating more scenes. These are possible future *changes to the story's
-history*, not additions to canon. This is a different lens from extrapolating current
-threads or producing four more scene variants.
+Event shocks are optional external perturbations of the narrative cycle, not a
+prerequisite for generating plot. When exploring what could happen next or later,
+default to the Scene / Sequel model: derive surprising disasters from characters'
+existing goals and conflicts, then derive new goals from the resulting dilemmas.
+
+Introduce a shock when an external change would create worthwhile pressure that
+does not naturally arise from the current threads, or when the user explicitly
+requests shocks. A dedicated shock-generation pass produces **12 short candidate
+canonical events**. Do not run that pass automatically before scene generation.
+These are possible changes to story history, not additions to canon.
 
 - Make **disruptions**, not just consequences of known plots: accidents, private crises,
   betrayals, irreversible decisions, institutional mistakes, unintended side effects and
@@ -124,7 +130,15 @@ position is just a fact, and facts without a position leak early.
 
 ## Generation rules
 
-**Four genomes per generation.** Each genome is:
+**Four genomes per generation.** For plot progression, start from existing goals,
+conflicts, disasters and dilemmas. Use `act`, `face`, `consider` and `decide` to
+generate causal continuations. A twist can emerge from an unexpected but believable
+resolution of a conflict, especially when it forces a character to change course.
+Use existing event candidates or new external shocks only where they are useful;
+there is no mandatory event-generation pass. Preserve the variety of narrative
+functions below rather than requiring every genome to advance plot.
+
+Each genome is:
 
 - **one scene**
 - **one POV**
@@ -230,10 +244,15 @@ resolves the dilemma into the next goal. A character can interpret
 the situation wrongly. Several characters can run these loops concurrently through
 the shared world; one person's choice can become another's conflict or disaster.
 
-The event-shock mechanism above remains separate and can introduce disruptions not
-derived from an existing goal. Such a disruption may supply the input to a sequel
-or the pressure for a scene; it is not automatically a Swain disaster. Neither
-mechanism commits events to canon.
+Plot twists emerge primarily from `face`: a surprising but causally grounded
+disaster frustrates the goal, and the resulting dilemma gives that reversal emotional
+weight. The twist is a product of the character's interaction with the world, not
+an unrelated event added for surprise.
+
+The optional event-shock mechanism above introduces external disruptions not derived
+from an existing goal. Such a disruption may supply the input to a sequel or the
+pressure for a scene; it is not automatically a Swain disaster. Neither mechanism
+commits events to canon.
 
 Every genome declares a `cycle` annotation in its front matter:
 
