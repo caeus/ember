@@ -177,17 +177,26 @@ Carried from `canon.md`, repeated because they are the ones most easily broken:
 ## Iterative narrative model (Scene / Sequel)
 
 A generative lens adapted from Dwight V. Swain's *Techniques of the Selling Writer*.
-The four typed functions are our abstraction of his six stages, not notation from
-the book.
+The four generative operations and their two compositions are our abstraction of
+his six stages, not notation from the book.
 
 ```typescript
-// Scene
-conflict(world: World, character: Character, goal: Goal): Conflict
-disaster(world: World, character: Character, conflict: Conflict): Disaster
-
-// Sequel
-dilemma(character: Character, disaster: Disaster): Dilemma
+// Generative operations
+act(world: World, character: Character, goal: Goal): Conflict
+face(world: World, character: Character, conflict: Conflict): Disaster
+consider(character: Character, disaster: Disaster): Dilemma
 decide(character: Character, dilemma: Dilemma): Goal
+
+// Composition
+function scene(world: World, character: Character, goal: Goal): Disaster {
+    const conflict = act(world, character, goal)
+    return face(world, character, conflict)
+}
+
+function sequel(character: Character, disaster: Disaster): Goal {
+    const dilemma = consider(character, disaster)
+    return decide(character, dilemma)
+}
 ```
 
 **Scene: goal -> conflict -> disaster.**
@@ -205,7 +214,8 @@ decide(character: Character, dilemma: Dilemma): Goal
 **Sequel: reaction -> dilemma -> decision.**
 
 - **Reaction:** the emotional or interpretive response to the disaster; implicit
-  inside the `dilemma` function, explicit in the genome annotation.
+  inside `consider`, explicit in the genome annotation. Reaction is not a separate
+  generative operation.
 - **Dilemma:** the incompatible alternatives the new situation leaves the character.
   Conflict challenges their ability to achieve something; dilemma challenges their
   priorities. An unanswered question alone is not a dilemma.
@@ -214,8 +224,9 @@ decide(character: Character, dilemma: Dilemma): Goal
   its goal are distinct; don't invent a next goal when the scaffold doesn't supply one.
 
 Conflict obstructs the current goal; disaster creates the need to adapt. The loop
-is generative: use an existing goal to propose resistance, resolve it adversely,
-explore the resulting dilemma, and derive the next goal. A character can interpret
+is generative: `act` pursues a goal and encounters resistance; `face` resolves that
+conflict adversely; `consider` processes the disaster into a dilemma; `decide`
+resolves the dilemma into the next goal. A character can interpret
 the situation wrongly. Several characters can run these loops concurrently through
 the shared world; one person's choice can become another's conflict or disaster.
 
